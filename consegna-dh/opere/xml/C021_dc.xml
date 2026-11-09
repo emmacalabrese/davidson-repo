@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <!-- Metadati Dublin Core del documento C021 -->
+
+    <dc:title>Malva</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Malva neglecta Wallr.</dc:subject>
+    <dc:subject>Malvaceae</dc:subject>
+    <dc:subject>Erbario</dc:subject>
+    <dc:subject>Campi Salentina</dc:subject>
+
+    <dc:description>
+        Campione botanico di Malva neglecta Wallr.,
+        essiccato e montato su foglio, corredato
+        di cartellino originale.
+
+        Il cartellino riporta la denominazione
+        "Malva domestica", la località di raccolta
+        "Uliveto arido Campi Sal." e la data
+        "15/6-84".
+
+        Sul foglio è presente inoltre il numero
+        "7. II".
+
+        Esemplare appartenente alla collezione
+        privata Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>PhysicalObject</dc:type>
+
+    <dc:format>Plant specimen</dc:format>
+
+    <dc:identifier>C021</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C021.html</dc:relation>
+
+</dc:dc>

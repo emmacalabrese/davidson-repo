@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C019 -->
+
+    <dc:title>Julmeditation</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Altre tecniche</dc:subject>
+
+    <dc:subject>Tecnica mista</dc:subject>
+
+    <dc:subject>Poesia svedese</dc:subject>
+
+    <dc:subject>Natale</dc:subject>
+
+    <dc:subject>Inverno</dc:subject>
+
+    <dc:subject>Riflessione e meditazione</dc:subject>
+
+    <dc:subject>Tempo e fine dell'anno</dc:subject>
+
+    <dc:subject>Tradizioni natalizie</dc:subject>
+
+    <dc:subject>Svezia</dc:subject>
+
+    <dc:description>
+        Opera a tecnica mista di Dagmar Davidson, datata 1973
+        sulla superficie dell'immagine. L'opera comprende
+        una poesia dattiloscritta in lingua svedese,
+        intitolata «Julmeditation», collocata sotto il dipinto
+        e parzialmente coperta dal colore.
+
+        Il componimento riflette sul periodo natalizio,
+        sull'inverno, sulla condizione umana, sulla solitudine
+        e sulla necessità di fermarsi e dedicarsi alla quiete
+        e alla riflessione alla fine dell'anno.
+
+        Sul documento sono presenti annotazioni manoscritte
+        a matita: «Testo italiano 6» e «Natale. Sv. 7».
+        Sull'immagine compare la firma «D-73».
+
+        Il documento conservato nell'archivio è costituito
+        da un foglio appartenente alla collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C019</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>sv</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C019.html</dc:relation>
+
+    <dc:relation>C019_tei.xml</dc:relation>
+
+</dc:dc>

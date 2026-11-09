@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C025 -->
+
+    <dc:title>Matrimonio 1955</dc:title>
+
+    <dc:subject>Fotografia</dc:subject>
+    <dc:subject>Matrimonio</dc:subject>
+    <dc:subject>Famiglia</dc:subject>
+    <dc:subject>Svezia</dc:subject>
+
+    <dc:description>
+        Documento fotografico composto da una fotografia
+        relativa al matrimonio di Dagmar Davidson,
+        datato 1955.
+
+        Sul fronte della fotografia non sono
+        presenti iscrizioni.
+
+        Sul verso è presente un'annotazione manoscritta molto sbiadita, parzialmente coperta da etichette VHS/SONY.
+        Si riconoscono alcuni elementi:
+        «11-12-1955» e «Alfredo e Dagmar»,
+        con lettura non certa.
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica di due fotografie
+        conservate nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C025</dc:identifier>
+
+    <dc:date>1955</dc:date>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:relation>../C025.html</dc:relation>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+</dc:dc>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C017 -->
+
+    <dc:title>Autoritratto ’57</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Autoritratto</dc:subject>
+
+    <dc:subject>Disegno</dc:subject>
+
+    <dc:subject>Matita</dc:subject>
+
+    <dc:subject>Arti figurative</dc:subject>
+
+    <dc:description>
+        Disegno a matita attribuito a Dagmar Davidson,
+        raffigurante un autoritratto.
+
+        Sul passe-partout compare la dicitura manoscritta
+        «Autoritratto». In basso a destra è presente
+        l'iscrizione «D. 57», possibile indicazione
+        cronologica riferibile al 1957.
+
+        Il titolo «Autoritratto ’57» è una titolatura
+        descrittiva adottata dall'archivio e non costituisce
+        un titolo ufficiale documentato.
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica di un disegno conservato
+        nella collezione privata Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C017</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C017.html</dc:relation>
+</dc:dc>

@@ -1,0 +1,143 @@
+/* =========================================================================
+   ARCHIVIO DAGMAR DAVIDSON — foglio di stile unico del sito
+   -------------------------------------------------------------------------
+   Per codificare i colori o i caratteri di tutto il sito ho scelto di utilizzare
+   le variabili qui sotto (--).
+   Le parti seguono l'ordine delle pagine: testata e menu (barra di navigazione), colonna di sinistra, home,
+   pagine di sezione, tutto l'archivio, scheda, piè di pagina.
+   ========================================================================= */
+
+:root {
+  /* colori */
+  --fondo: #e9e5dd;          /* fondo della pagina, ai lati */
+  --carta: #fdfbf7;          /* fondo dei riquadri chiari */
+  --testo: #2a2722;          /* colore del testo */
+  --tenue: #6d675d;          /* testo secondario (didascalie, conteggi) */
+  --linea: #ddd5c7;          /* bordi e linee sottili */
+  --testata: #2f3d36;        /* testata (verde oliva scuro) */
+  --menu: #1f2924;           /* barra del menu, più scura */
+  --scuro: #353b37;          /* colonna scura con sezioni e categorie */
+  --chiaro: #f3efe6;         /* testo sui fondi scuri */
+  --accento: #8a5a2b;        /* link e dettagli (terra di Siena) */
+  --etichetta: #efe7d9;      /* fondo dei tag */
+
+  /* caratteri */
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: -apple-system, "Helvetica Neue", Arial, sans-serif;
+
+  /* larghezza massima del contenuto */
+  --larghezza: 1140px;
+}
+
+/* ---------- base ---------- */
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--fondo); color: var(--testo); font: 16px/1.6 var(--sans); }
+a { color: var(--accento); }
+img { max-width: 100%; height: auto; display: block; }
+h1, h2, h3 { font-family: var(--serif); font-weight: normal; line-height: 1.25; }
+.contenitore { max-width: var(--larghezza); margin: 0 auto; padding: 0 16px; }
+.tenue { color: var(--tenue); font-size: 14px; }
+.avviso { background: var(--etichetta); padding: 12px 16px; border-radius: 6px; }
+.tag { display: inline-block; background: var(--etichetta); color: var(--testo); text-decoration: none; font-size: 13px; padding: 2px 10px; border-radius: 12px; margin: 0 4px 4px 0; }
+.tag:hover { background: var(--linea); }
+
+/* ---------- testata ---------- */
+.testata { background: var(--testata); color: var(--chiaro); }
+.testata .contenitore { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; padding-top: 26px; padding-bottom: 22px; }
+.testata .contenitore-ricerca { display: flex; align-items: center; }
+.testata .contenitore-ricerca input { padding: 9px 12px; border: 0; border-radius: 3px 0 0 3px; font: 16px var(--serif); width: 260px; max-width: 55vw; }
+.testata .contenitore-ricerca button { padding: 9px 14px; border: 0; border-radius: 0 3px 3px 0; background: var(--carta); color: var(--testo); font: 16px var(--serif); cursor: pointer; border-left: 1px solid var(--linea); }
+.testata .contenitore-ricerca button i { font-size: 16px; }
+.testata .nome { color: inherit; text-decoration: none; font: 36px/1.15 var(--serif); }
+.testata .sottotitolo { margin: 6px 0 0; font: 18px var(--serif); opacity: .75; }
+
+/* ---------- menu (nav bar) ---------- */
+.menu { background: var(--menu); }
+.menu .contenitore { display: flex; flex-wrap: wrap; gap: 4px 28px; }
+.menu a { display: block; padding: 12px 0; color: var(--chiaro); text-decoration: none; font-size: 16px; border-bottom: 2px solid transparent; }
+.menu a:hover, .menu a.attivo { border-bottom-color: var(--chiaro); }
+
+/* ---------- contenuto ---------- */
+main { padding-bottom: 60px; }
+.pagina { background: var(--carta); padding: 28px 36px 40px; }
+.briciole { font-size: 14px; color: var(--tenue); margin-bottom: 8px; }
+
+/* ---------- colonna di sinistra con sezioni e categorie (home, sezioni, scheda) ---------- */
+.con-colonna { display: grid; grid-template-columns: 300px 1fr; align-items: start; }
+.colonna { background: var(--scuro); color: var(--chiaro); align-self: stretch; }
+.voce-sezione { padding: 20px 26px; border-bottom: 1px solid rgba(255, 255, 255, .12); }
+.voce-sezione h2 { margin: 0 0 6px; font: 19px var(--sans); }
+.voce-sezione h2 a { color: var(--chiaro); }
+.voce-sezione.attiva { background: rgba(255, 255, 255, .06); }
+.voce-sezione ul { list-style: none; margin: 0; padding: 0; }
+.voce-sezione li a { color: #c9c3b8; text-decoration: none; font-size: 15px; display: block; padding: 1px 0; }
+.voce-sezione li a:hover, .voce-sezione li a.attivo { color: var(--chiaro); text-decoration: underline; }
+
+/* ---------- home: la presentazione a destra della colonna ---------- */
+.presentazione { background: var(--carta); }
+.scroll-container { display: flex; flex-direction: row; overflow-x: auto; white-space: nowrap; padding: 10px; scroll-behavior: smooth; }
+.scroll-container img { display: block; height: 500px; width: auto; flex-shrink: 0; object-fit: contain; gap: 15px; padding: 10px; }
+.presentazione .testo { padding: 26px 36px 36px; }
+.presentazione h2 { font-size: 22px; margin: 18px 0 8px; }
+.presentazione p { font: 17px/1.7 var(--serif); margin: 0 0 14px; max-width: 42em; }
+
+/* ---------- pagine di sezione (scritti.html, …) ---------- */
+.pagina > h1 { font-size: 34px; margin: 0 0 6px; }
+.categoria-sezione { padding-top: 10px; }
+.categoria-sezione h2 { font-size: 24px; border-bottom: 1px solid var(--linea); padding-bottom: 6px; margin: 26px 0 4px; }
+
+/* riga di un'opera (usata nelle sezioni e in tutto l'archivio) */
+.risultato { display: grid; grid-template-columns: 120px 1fr; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--linea); }
+.risultato img { width: 120px; height: 90px; object-fit: cover; border-radius: 3px; background: var(--etichetta); }
+.risultato h3 { margin: 0 0 2px; font-size: 20px; }
+.risultato h3 a { text-decoration: none; }
+.risultato .categoria { font-size: 14px; color: var(--tenue); margin-bottom: 6px; }
+.risultato .estratto { font-size: 14px; color: var(--tenue); margin: 4px 0; }
+
+/* ---------- tutto l'archivio: filtri in alto, elenco sotto ---------- */
+.filtri { border-top: 1px solid var(--linea); border-bottom: 1px solid var(--linea); padding: 8px 0; margin-bottom: 6px; }
+.riga-filtri { display: grid; grid-template-columns: 100px 1fr; gap: 10px; padding: 6px 0; font-size: 14px; }
+.nome-filtro { font-weight: 600; padding-top: 3px; }
+.riga-filtri a { display: inline-block; text-decoration: none; padding: 2px 9px; margin: 0 4px 4px 0; border-radius: 12px; background: var(--etichetta); color: var(--testo); }
+.riga-filtri a:hover { background: var(--linea); }
+.riga-filtri a.attivo { background: var(--accento); color: #fff; }
+.riga-filtri .conta { color: var(--tenue); font-size: 12px; }
+.riga-filtri a.attivo .conta { color: #fff; }
+.risultati-testa { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 12px; }
+.risultati-testa h1 { margin: 0; font-size: 28px; }
+
+/* ---------- scheda: ogni foglio con la sua trascrizione accanto ---------- */
+.scheda h1 { font-size: 34px; margin: 0 0 10px; }
+.dati { display: grid; grid-template-columns: max-content 1fr; gap: 4px 18px; margin: 0 0 24px; font-size: 15px; }
+.dati dt { color: var(--tenue); }
+.dati dd { margin: 0; }
+.foglio { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; padding: 24px 0; border-top: 1px solid var(--linea); }
+.foglio img { border: 1px solid var(--linea); margin-top: 6px; }
+.trascrizione { white-space: pre-wrap; font: 17px/1.7 var(--serif); background: #fff; border: 1px solid var(--linea); border-radius: 4px; padding: 18px 20px; margin: 0; }
+.scorri { display: flex; justify-content: space-between; gap: 20px; margin-top: 28px; }
+
+/* ---------- mappa della flora (mappa.html): il disegno a sinistra, la pianta scelta a destra ---------- */
+.mappa-e-scheda { display: grid; grid-template-columns: 1fr 320px; gap: 24px; margin-top: 18px; }
+.mappa { height: 78vh; min-height: 420px; border: 1px solid var(--linea); isolation: isolate; }   /* la mappa resta sotto il resto della pagina */
+.mappa.leaflet-container { background: #dfe9f0; }   /* stesso colore del bordo aggiunto alle tessere */
+.pianta h2 { font-size: 24px; margin: 8px 0 4px; }
+.pianta h3 { font: 600 13px var(--sans); text-transform: uppercase; letter-spacing: .06em; color: var(--tenue); margin: 18px 0 8px; }
+.pianta .risultato { grid-template-columns: 70px 1fr; gap: 10px; }
+.pianta .risultato img { width: 70px; height: 56px; }
+.pianta .risultato h3 { font: 17px var(--serif); text-transform: none; letter-spacing: 0; color: var(--testo); margin: 0; }
+.elenco-piante { padding-left: 18px; }
+
+/* ---------- piè di pagina ---------- */
+.pie { background: var(--testata); color: var(--chiaro); font-size: 14px; padding: 24px 0; }
+.pie a { color: inherit; }
+
+/* ---------- telefono: tutto su una colonna ---------- */
+@media (max-width: 760px) {
+  .con-colonna, .foglio, .riga-filtri, .mappa-e-scheda { grid-template-columns: 1fr; }
+  .mappa { height: 65vh; }
+  .colonna { order: 2; }   /* sul telefono la colonna va sotto il contenuto */
+  .pagina, .presentazione .testo, .voce-sezione { padding-left: 18px; padding-right: 18px; }
+  .testata .nome { font-size: 26px; }
+  .risultato { grid-template-columns: 80px 1fr; }
+  .risultato img { width: 80px; height: 60px; }
+}

@@ -1,0 +1,60 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C008 -->
+
+    <dc:title>Flora primaverile</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Saggistica</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Flora spontanea</dc:subject>
+
+    <dc:subject>Paesaggio salentino</dc:subject>
+
+    <dc:subject>Protezione della natura</dc:subject>
+
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:description>
+        Testo introduttivo di Dagmar Davidson dedicato alla
+        flora spontanea del Salento e alla ricerca pittorica
+        sui fiori campestri. L'autrice illustra le motivazioni
+        del proprio lavoro, l'osservazione e la rappresentazione
+        dei fiori nel loro ambiente naturale, la progressiva
+        perdita delle conoscenze botaniche tradizionali e i
+        rischi derivanti dall'uso di anticrittogamici e
+        diserbanti. Il testo accompagna una mostra dedicata
+        alla flora primaverile salentina. Il documento
+        conservato nell'archivio è composto da un foglio
+        dattiloscritto con piccole correzioni a penna.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C008</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C008.html</dc:relation>
+
+    <dc:relation>C008_tei.xml</dc:relation>
+
+</dc:dc>

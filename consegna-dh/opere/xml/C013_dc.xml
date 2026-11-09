@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C013 -->
+
+    <dc:title>Tetti con neve</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Pittura</dc:subject>
+
+    <dc:subject>Pittura a olio</dc:subject>
+
+    <dc:subject>Paesaggio urbano</dc:subject>
+
+    <dc:subject>Architettura</dc:subject>
+
+    <dc:subject>Paesaggio invernale</dc:subject>
+
+    <dc:subject>Neve</dc:subject>
+
+    <dc:subject>Campi Salentina</dc:subject>
+
+    <dc:description>
+        Dipinto a olio di Dagmar Davidson raffigurante un paesaggio
+        architettonico invernale.
+        L'opera rappresenta una veduta di tetti innevati a Campi Salentina.
+        Sul campione non sono presenti iscrizioni
+        o annotazioni descrittive.
+        In basso a sinistra compare la firma
+        dell'autrice: «D Davidson».
+
+        Il documento digitale è costituito
+        dalla riproduzione fotografica di un'opera
+        conservata nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C013</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C013.html</dc:relation>
+
+</dc:dc>

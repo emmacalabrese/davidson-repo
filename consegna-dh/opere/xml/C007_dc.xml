@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C007 -->
+
+    <dc:title>Quaderni Salentini 1989</dc:title>
+
+    <dc:creator>C. G. T.</dc:creator>
+
+    <dc:subject>Ritaglio stampa</dc:subject>
+
+    <dc:subject>Dagmar Davidson</dc:subject>
+
+    <dc:subject>Pittura salentina</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:subject>Paesaggio salentino</dc:subject>
+
+    <dc:subject>Protezione della natura</dc:subject>
+
+    <dc:description>
+        Articolo di C. G. T. dedicato alla pittrice Dagmar Davidson
+        e alla sua ricerca pittorica sulla flora e sul paesaggio
+        salentino. Pubblicato su Quaderni Salentini, pagina 16,
+        nel 1989. Il documento conservato nell'archivio è composto
+        da un foglio stampato.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C007</dc:identifier>
+
+    <dc:source>Quaderni Salentini, 1989, p. 16</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C007.html</dc:relation>
+
+    <dc:relation>C007_tei.xml</dc:relation>
+
+</dc:dc>

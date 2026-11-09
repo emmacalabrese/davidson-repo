@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C030 -->
+
+    <dc:title>Pagina registro opere</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Registro delle opere</dc:subject>
+
+    <dc:subject>Vendita di opere</dc:subject>
+
+    <dc:subject>Dagmar Davidson</dc:subject>
+
+    <dc:description>
+        Pagina di registro personale contenente fotografie
+        di dipinti e annotazioni manoscritte relative alla
+        vendita o alla destinazione delle opere. Sono
+        riportati alcuni nominativi di acquirenti o
+        destinatari, tra cui Irene Calabrese, Yvonne Tavazzi
+        e Alfredo Pierri. Alcune letture delle annotazioni
+        manoscritte sono incerte.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C030</dc:identifier>
+
+    <dc:language>it</dc:language>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C030.html
+    </dc:relation>
+
+</dc:dc>

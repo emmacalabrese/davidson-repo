@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core della lettera C003 -->
+
+    <dc:title>Campi 17.4.1963</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Lettera</dc:subject>
+
+    <dc:subject>Corrispondenza familiare</dc:subject>
+
+    <dc:subject>Maria Teresa Rapanà</dc:subject>
+
+    <dc:subject>Campi Salentina</dc:subject>
+
+    <dc:description>
+        Lettera manoscritta di Dagmar Davidson indirizzata
+        a Maria Teresa Rapanà, scritta a Campi Salentina
+        il 17 aprile 1963. La lettera tratta della vita
+        familiare, dei bambini e delle notizie provenienti
+        da Campi Salentina. Il documento originale è
+        composto da tre fogli.
+    </dc:description>
+
+    <dc:date>1963-04-17</dc:date>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C003</dc:identifier>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C003.html
+    </dc:relation>
+
+    <dc:relation>
+        C003_tei.xml
+    </dc:relation>
+
+</dc:dc>

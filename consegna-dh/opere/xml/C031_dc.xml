@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core dell'ITEM C031 -->
+
+    <dc:title>Rauccio 2022</dc:title>
+
+    <dc:creator>Angelica Calabrese</dc:creator>
+
+    <dc:subject>Rauccio</dc:subject>
+
+    <dc:subject>Evento</dc:subject>
+
+    <dc:description>
+        Documento fotografico relativo a un evento svoltosi
+        a Rauccio nel 2022. L'immagine mostra mappe e pannelli
+        esposti alle pareti. Non sono presenti testi leggibili
+        sul campione.
+    </dc:description>
+
+    <dc:date>2022</dc:date>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C031</dc:identifier>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C031.html
+    </dc:relation>
+
+</dc:dc>

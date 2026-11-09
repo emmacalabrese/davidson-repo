@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C029 -->
+
+    <dc:title>Ticknor 1993</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Mostra Harvard 1993</dc:subject>
+
+    <dc:subject>Ticknor Lounge</dc:subject>
+
+    <dc:subject>Harvard University</dc:subject>
+
+    <dc:subject>La primavera del Salento</dc:subject>
+
+    <dc:subject>Springtime in Southern Italy</dc:subject>
+
+    <dc:subject>Pittura</dc:subject>
+
+    <dc:description>
+        Documento di documentazione espositiva composto
+        da due facciate, relativo alla mostra La primavera
+        del Salento / Springtime in Southern Italy di
+        Dagmar Davidson Calabrese, organizzata presso il
+        Ticknor Lounge, Boylston Hall, Harvard University,
+        dal 10 marzo al 9 aprile 1993.
+
+        Il fronte riporta il titolo della mostra, le
+        tecniche artistiche presentate, il luogo e le
+        informazioni relative all'inaugurazione e agli
+        orari di apertura.
+
+        Il retro contiene una nota biografica e critica
+        sull'artista, con informazioni sulla formazione,
+        sull'attività espositiva internazionale e sulla
+        ricerca pittorica dedicata alla flora e al
+        paesaggio del Salento.
+    </dc:description>
+
+    <dc:date>1993-03-10/1993-04-09</dc:date>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C029</dc:identifier>
+
+    <dc:source>
+        Documentazione della mostra presso Harvard University, 1993
+    </dc:source>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>en</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C029.html
+    </dc:relation>
+
+</dc:dc>

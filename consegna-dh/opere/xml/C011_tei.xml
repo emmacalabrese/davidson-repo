@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C011">
+
+<!-- Codifica XML/TEI degli appunti C011 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Nomi dialettali</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento di appunti, identificato
+                    con il codice C011, composto da un foglio.
+                    Contiene un elenco numerato di nomi
+                    dialettali di piante, accompagnati
+                    da glosse e identificazioni botaniche.
+                    Il documento presenta una cancellatura
+                    e un'ultima annotazione in inchiostro blu.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="notes">
+
+                <head>Nomi dialettali</head>
+
+                <list type="number">
+
+                    <item n="22">
+                        <form type="dialect">
+                            <orth>panecucchie</orth>
+                        </form>
+                    </item>
+
+                    <item n="23">
+                        <form type="dialect">
+                            <orth>spatule</orth>
+                        </form>
+                        <gloss>(gladioli)</gloss>
+                    </item>
+
+                    <item n="24">
+                        <form type="dialect">
+                            <orth>cardisanti</orth>
+                        </form>
+                        <gloss>(galactites tomentosa)</gloss>
+                    </item>
+
+                    <item n="25">
+                        <form type="dialect">
+                            <orth>ausapieti</orth>
+                        </form>
+                        <gloss>(pianta bassa spinosa)</gloss>
+                    </item>
+
+                    <item n="26">
+                        <form type="dialect">
+                            <orth>
+                                squpereste
+                                <unclear cert="low">?</unclear>
+                            </orth>
+                        </form>
+                        <gloss>(canna (specie))</gloss>
+                    </item>
+
+                    <item n="27">
+                        <form type="dialect">
+                            <orth>cauliriesti</orth>
+                        </form>
+                        <gloss>
+                            (hegemsia
+                            <unclear cert="low">?</unclear>
+                            / speculum veneris)
+                        </gloss>
+                    </item>
+
+                    <item n="28">
+                        <form type="dialect">
+                            <orth>pastanachereste</orth>
+                        </form>
+                        <gloss>(pastenaca)</gloss>
+                    </item>
+
+                    <item n="29">
+                        <form type="dialect">
+                            <orth>pumitoiriesti</orth>
+                        </form>
+                        <gloss>(pomidori selvatici)</gloss>
+                    </item>
+
+                    <item n="30">
+                        <form type="dialect">
+                            <orth>cucummariesti</orth>
+                        </form>
+                        <gloss>(erb.)</gloss>
+                    </item>
+
+                    <item n="31">
+                        <form type="dialect">
+                            <orth>campaniecdchui</orth>
+                        </form>
+                    </item>
+
+                    <item n="32">
+                        <form type="dialect">
+                            <orth>paparene</orth>
+                        </form>
+                        <gloss>
+                            (Papaveri, darr gräs
+                            <unclear cert="low">?</unclear>)
+                        </gloss>
+                    </item>
+
+                    <item n="33">
+                        <form type="dialect">
+                            <orth>furficicchio</orth>
+                        </form>
+                    </item>
+
+                    <item n="34">
+                        <form type="dialect">
+                            <orth>ricchetemonaci</orth>
+                        </form>
+                        <gloss>(fiori bianchi nel grano)</gloss>
+                    </item>
+
+                    <item n="35">
+                        <form type="dialect">
+                            <orth>mintascca</orth>
+                        </form>
+                        <gloss>(Ficaria / menta)</gloss>
+                    </item>
+
+                    <item n="36">
+                        <form type="dialect">
+                            <orth>pumitiecdchui</orth>
+                        </form>
+                    </item>
+
+                    <item n="37">
+                        <form type="dialect">
+                            <orth>malaricha</orth>
+                        </form>
+                        <gloss>(palude di mare)</gloss>
+                    </item>
+
+                    <item n="38">
+                        <form type="dialect">
+                            <orth>l'inchi</orth>
+                        </form>
+                        <gloss>(erba nella sabbia)</gloss>
+                    </item>
+
+                    <item n="39">
+                        <form type="dialect">
+                            <orth>pitte</orth>
+                        </form>
+                        <gloss>(agave)</gloss>
+                    </item>
+
+                    <item n="40">
+                        <form type="dialect">
+                            <orth>ardicule</orth>
+                        </form>
+                    </item>
+
+                    <item>
+                        <del rend="overstrike">
+                            41 ervate puzzu, 42 trifoglio
+                        </del>
+                    </item>
+
+                    <item n="41">
+                        <form type="dialect">
+                            <orth>spunchia</orth>
+                        </form>
+                        <gloss>(piante neg. pozzi)</gloss>
+                    </item>
+
+                    <item n="42">
+                        <form type="dialect">
+                            <orth>erva te puzzu</orth>
+                        </form>
+                    </item>
+
+                    <item n="43">
+                        <form type="dialect">
+                            <orth>cdchuifoglio</orth>
+                        </form>
+                        <gloss>- trifoglio</gloss>
+                    </item>
+
+                    <item n="44">
+                        <form type="dialect">
+                            <orth>cannazza</orth>
+                        </form>
+                        <gloss>- erba</gloss>
+                    </item>
+
+                    <item n="45">
+                        <form type="dialect">
+                            <orth>erva teientu</orth>
+                        </form>
+                    </item>
+
+                    <item n="46">
+                        <form type="dialect">
+                            <orth>merculecdchua</orth>
+                        </form>
+                        <gloss>(erba)</gloss>
+                    </item>
+
+                    <item n="47">
+                        <form type="dialect">
+                            <orth>fiuri te cucce</orth>
+                        </form>
+                    </item>
+
+                    <item n="48">
+                        <form type="dialect">
+                            <orth>
+                                <hi rend="blue-ink">brucocchia</hi>
+                            </orth>
+                        </form>
+                    </item>
+
+                </list>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

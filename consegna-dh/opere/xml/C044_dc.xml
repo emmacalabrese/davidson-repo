@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <dc:title>Disegno botanico di Reseda</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Reseda</dc:subject>
+    <dc:subject>Botanica</dc:subject>
+    <dc:subject>Erbario disegnato</dc:subject>
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:description>
+        Disegno botanico di una pianta di Reseda, conservato
+        nell'Archivio Dagmar Davidson. Il documento è costituito
+        da un foglio. In basso sono presenti annotazioni a matita:
+        «Davidson.» e «17. Davidson» (lettura incerta).
+        Sul lato sinistro compare inoltre un numero a matita
+        molto chiaro, probabilmente 47.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C044</dc:identifier>
+    <dc:identifier>C044-1.jpg</dc:identifier>
+
+    <dc:language>it</dc:language>
+	
+	<dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+	<dc:rights>Condizioni di accesso e riutilizzo da verificare</dc:rights>
+
+	<dc:relation>
+		../C044.html
+	</dc:relation>
+
+</dc:dc>

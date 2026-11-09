@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc 
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C011 -->
+
+    <dc:title>Nomi dialettali</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Appunti</dc:subject>
+
+    <dc:subject>Dialetto salentino</dc:subject>
+
+    <dc:subject>Nomi dialettali delle piante</dc:subject>
+
+    <dc:subject>Fitonimi popolari</dc:subject>
+
+    <dc:subject>Botanica popolare</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:subject>Tradizioni linguistiche</dc:subject>
+
+    <dc:subject>Conoscenze botaniche tradizionali</dc:subject>
+
+    <dc:subject>Glosse botaniche</dc:subject>
+
+    <dc:description>
+        Elenco numerato di nomi dialettali di piante,
+        accompagnati in diversi casi da glosse,
+        denominazioni italiane e indicazioni botaniche.
+        Il documento, attribuito a Dagmar Davidson,
+        comprende le voci numerate dal 22 al 48
+        e costituisce una testimonianza del lessico
+        popolare relativo alla flora e alla vegetazione
+        del territorio salentino.
+
+        Tra le denominazioni riportate compaiono
+        nomi di fiori, piante spontanee, erbe,
+        specie spinose e vegetazione degli ambienti
+        rurali e costieri. Alcune identificazioni
+        botaniche sono accompagnate da punti
+        interrogativi, che segnalano letture o
+        interpretazioni incerte.
+
+        Il foglio presenta una cancellatura relativa
+        alle voci 41 e 42, successivamente riprese
+        con una numerazione aggiornata. L'ultima
+        voce, «brucocchia», risulta scritta
+        in inchiostro blu.
+        Il documento è composto da un foglio
+        ed è conservato nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C011</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C011.html</dc:relation>
+
+    <dc:relation>C011_tei.xml</dc:relation>
+
+</dc:dc>

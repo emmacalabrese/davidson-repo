@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core dell'opera C016 -->
+
+    <dc:title>Terrazzo</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Pittura</dc:subject>
+
+    <dc:subject>Acquerello</dc:subject>
+
+    <dc:subject>Architettura</dc:subject>
+
+    <dc:subject>Paesaggio urbano</dc:subject>
+
+    <dc:subject>Terrazza</dc:subject>
+
+    <dc:subject>Campi Salentina</dc:subject>
+
+    <dc:description>
+        Opera pittorica ad acquerello di Dagmar Davidson, raffigurante un terrazzo.
+
+        Sull'acquerello compare la firma dell'autrice:
+        «Davidson».
+
+        Sul passe-partout è presente un'iscrizione
+        manoscritta con il titolo «Terrazzo».
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica dell'opera,
+        conservata nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C016</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C016.html</dc:relation>
+
+</dc:dc>

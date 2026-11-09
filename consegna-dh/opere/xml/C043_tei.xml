@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C043">
+
+<!-- Codifica XML/TEI del ritaglio stampa C00... -->
+     <teiHeader>
+
+          <fileDesc>
+
+               <titleStmt>
+                    <title>Il prato della Primavera</title>
+                    <author>Dagmar Davidson</author>
+               </titleStmt>
+
+               <publicationStmt>
+                    <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                    <date>2026</date>
+               </publicationStmt>
+
+               <sourceDesc>
+                    <p> Poesia manoscritta datata 21 aprile, intitolata Il prato della Primavera. Il testo descrive un campicello incolto del Salento e la fioritura primaverile di diverse specie vegetali, tra cui borragine, aglio, ambasciulli, reseda e anagallide. Il foglio presenta correzioni, aggiunte e annotazioni marginali.</p>
+               </sourceDesc>
+
+          </fileDesc>
+
+          <profileDesc>
+
+               <langUsage>
+                    <language ident="it">Italiano</language>
+               </langUsage>
+
+          </profileDesc>
+
+     </teiHeader>
+
+     <text xml:lang="it">
+
+          <body>
+
+               <div type="poem">
+
+                <dateline>21 Aprile</dateline>
+
+               <head>Il prato della Primavera, II.</head>
+
+          <lg type="stanza">
+
+                    <l>Il prato sta in fiore,</l>
+                    <l>o meglio,</l>
+                    <l>un campicello incolto,</l>
+                    <l>circondato da pietruzze</l>
+                    <l>di mura dirupate,</l>
+                    <l>pieno</l>
+                    <l>di nidi di talpe.</l>
+
+                    <l>
+                        <del>Il</del>
+                        <add>La</add>
+                        melancolica
+                        Borag<add>ine</add>
+                    </l>
+
+                    <l>
+                        <note place="margin">con fiori</note>
+                        in azzurro intenso,
+                    </l>
+
+                    <l>alta e robusta,</l>
+                    <l>si fa largo</l>
+
+                    <l>tra gracili Agli bianchi</l>
+
+                    <l>
+                        e <del>gli</del>
+                        Ambasciulli
+                        <del>profondi</del>
+                        <add>viola, con bulbi profondi</add>
+                    </l>
+
+                    <l>
+                        <del>mentre</del>
+                        la Reseda
+                        <add>profumata</add>
+                    </l>
+
+                    <l>
+                        e l'Anagallide
+                        <note place="margin">(la piccola)</note>
+                    </l>
+
+                    <l>
+                        <del>li aiutano a cantare</del>
+                        <add>tutti si uniscono per cantare</add>
+                        <unclear>?</unclear>
+                    </l>
+
+                    <l>il loro inno</l>
+                    <l>alla splendida e briosa</l>
+                    <l>primavera del Salento.</l>
+
+                </lg>
+
+                <closer>
+                    <signed>DC</signed>
+                </closer>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

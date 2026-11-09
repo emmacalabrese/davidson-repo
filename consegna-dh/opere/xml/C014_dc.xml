@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core dell'opera C014 -->
+
+    <dc:title>Vicolo di Lecce</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Pittura</dc:subject>
+
+    <dc:subject>Pittura a olio</dc:subject>
+
+    <dc:subject>Paesaggio urbano</dc:subject>
+
+    <dc:subject>Architettura</dc:subject>
+
+    <dc:subject>Veduta urbana</dc:subject>
+
+    <dc:subject>Lecce</dc:subject>
+
+    <dc:description>
+        Dipinto a olio di Dagmar Davidson raffigurante un vicolo della città di Lecce.
+        Sul campione non sono presenti iscrizioni,
+        annotazioni descrittive o firme visibili.
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica dell'opera,
+        conservata nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C014</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C014.html</dc:relation>
+
+</dc:dc>

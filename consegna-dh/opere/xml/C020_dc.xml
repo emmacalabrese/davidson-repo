@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C020 -->
+
+  <dc:title>Reseda</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:subject>Botanica</dc:subject>
+  <dc:subject>Erbario</dc:subject>
+  <dc:subject>Reseda phyteuma</dc:subject>
+  <dc:subject>Reseda selvatica</dc:subject>
+  <dc:subject>Campi Salentina</dc:subject>
+
+  <dc:description>
+    Esemplare di erbario raccolto e conservato da Dagmar Davidson.
+    Il cartellino riporta la denominazione botanica
+    Reseda phyteuma L. e il nome comune Reseda selvatica.
+    Il luogo di raccolta è indicato come Incolti S. Elia,
+    Campi Salentina.
+    La data riportata sul cartellino è 18 giugno 1982
+    oppure 18 giugno 1992; l'ultima cifra dell'anno
+    non è leggibile con certezza.
+    Sul foglio compaiono inoltre i numeri 2 e 181.
+  </dc:description>
+
+  <dc:type>PhysicalObject</dc:type>
+
+  <dc:format>Plant specimen</dc:format>
+
+  <dc:identifier>C020</dc:identifier>
+
+  <dc:language>it</dc:language>
+
+  <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>../C020.html</dc:relation>
+
+</dc:dc>

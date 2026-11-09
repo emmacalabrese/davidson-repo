@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Anemone Coronaria</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Dipinto ad acquerello appartenente al ciclo
+    La primavera del Salento, associato alla specie
+    botanica Anemone coronaria.
+    Il foglio reca la firma DDavidson e il numero 3
+    annotato a margine, in basso a destra.
+  </dc:description>
+
+  <dc:subject>Pittura</dc:subject>
+  <dc:subject>Acquerello</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+  <dc:subject>Anemone coronaria</dc:subject>
+
+  <dc:type>StillImage</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:identifier>C038</dc:identifier>
+
+  <dc:language>zxx</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C038.html
+  </dc:relation>
+
+</dc:dc>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Disegno botanico di Silene Conica</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Disegno botanico raffigurante Silene conica,
+    appartenente alla documentazione del ciclo
+    La primavera del Salento.
+    Il foglio presenta annotazioni manoscritte
+    a matita con indicazioni botaniche,
+    riferimenti a Silene gallica e Silene latifolia,
+    oltre al numero 18 e alla filigrana
+    C.M. Fabriano.
+  </dc:description>
+
+  <dc:subject>Botanica</dc:subject>
+  <dc:subject>Erbario disegnato</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+  <dc:subject>Silene conica</dc:subject>
+  <dc:subject>Silene gallica</dc:subject>
+  <dc:subject>Silene latifolia</dc:subject>
+
+  <dc:type>StillImage</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:identifier>C042</dc:identifier>
+
+  <dc:language>zxx</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C042.html
+  </dc:relation>
+
+</dc:dc>

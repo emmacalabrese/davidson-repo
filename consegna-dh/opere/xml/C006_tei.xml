@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C006">
+
+    <!-- Codifica XML/TEI del documento C006 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Sono sempre stata fiera…</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento dattiloscritto con correzioni
+                    e aggiunte manoscritte, identificato
+                    con il codice C006, composto da due fogli.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="essay">
+
+                <head>Sono sempre stata fiera…</head>
+
+                <pb n="1"/>
+
+                <note place="margin">
+                    Primo l'Accademia di Belle Arti
+                    <unclear>?</unclear>
+                </note>
+
+                <p>
+                    Sono sempre stata fiera di essere nata
+                    in campagna e i miei ricordi d'infanzia
+                    mi sono rimasti come un bellissimo sogno,
+                    la grande casa di legno dai tetti acuti
+                    e balconi ricchi d'intarsi, tutto intorno
+                    boschi dai tronchi altissimi e da un lato
+                    la veduta di un'avvasta pianura.
+                    Mio padre, che in molte cose anticipava
+                    i tempi, era membro della associazione
+                    "La protezione della natura".
+                    Nel principio degli anni 1930 sulla sua
+                    iniziativa fu dichiarato parco protetto
+                    un bosco vicino a casa nostra, composto
+                    di quercia, olmo e nocciola, tutti alberi
+                    abbastanza rari per quella latitudine.
+                    Io e i miei fratelli avevamo imparato
+                    già da piccoli a muoverci liberamente
+                    nella natura e riconoscere fiori, animali
+                    e uccelli con tutte le loro caratteristiche.
+                    Per conto mio mi specializzo nel riconoscere
+                    il canto degli uccelli con buon successo.
+                </p>
+
+                <p>
+                    Purtroppo mio padre ci lasciò prematuramente
+                    e mia madre dovette ritornare alla sua
+                    città nativa.
+                </p>
+
+                <p>
+                    Nel 1955 approdo a Roma con una borsa
+                    di studio in pittura e storia dell'arte,
+                    dove incontrai il mio futuro marito…
+                    Finiti i nostri studi ci trasferimmo
+                    nel Salento.
+                </p>
+
+                <p>
+                    Trovai il Salento degli anni 50-60
+                    meraviglioso, la sua aria vellutata,
+                    il verde intenso dei vigneti d'estate,
+                    i boschi di ulivi con quel caratteristico
+                    tocco d'argento nel loro fogliame,
+                    la ricca fioritura primaverile e il giallo
+                    intenso delle erbe secche d'estate.
+                    Per non parlare delle spiagge di sabbia
+                    lunghe chilometri e chilometri con dune
+                    immensi e con grandi canneti verdi,
+                    che ondeggiavano come il mare.
+                    Negli anni settanta cominciò un crescente
+                    degrado, un degrado per me doloroso,
+                    non necessario.
+                </p>
+
+                <p>
+                    Cominciò la mia carriera come pittrice
+                    Salentina nel dipingere bambini e vedute
+                    di tetti. Negli anni settanta mi dedico
+                    per un paio di anni a disegnare il centro
+                    storico di Lecce e fece una lunga serie
+                    di quadri ad olio e un grafiche.
+                </p>
+
+                <p>
+                    Contro il crescente degrado ambientale
+                    negli anni settanta, che poi negli anni
+                    ottanta superò ogni limite di abusivismo,
+                    di veleni nell'agricoltura, edilizia lungo
+                    le coste, e di scariche di spazzatura,
+                    che ora copre tutto il Salento,
+                    si risvegliò in me l'interesse per
+                    la protezione della natura che mi era
+                    stato instillato da mio padre.
+                </p>
+
+                <pb n="2"/>
+
+                <note place="margin">
+                    Pensai che
+                </note>
+
+                <p>
+                    Per creare l'interesse per la protezione
+                    della natura ci vuole informazione,
+                    bisognava mostrare la bellezza del paesaggio
+                    Salentino e la sua flora.
+                </p>
+
+                <p>
+                    Così cominciai
+                    <del rend="overstrike">un intenso lavoro di disegnare e</del>
+                    <add place="above">pittorico, dipingendo</add>
+                    dipingere i fiori direttamente in campagna.
+                    Il Salento ha un clima
+                    <del rend="overstrike">piuttosto</del>
+                    arido, per cui molte piante sono
+                    <del rend="overstrike">di misura piccola</del>
+                    <add place="above">di piccole dimensioni
+                    <unclear>?</unclear></add>
+                    e passano facilmente inosservati
+                    per cui cercai di ingrandire questi piccoli
+                    fiori campestri più possibile per creare
+                    un colpo d'occhio.
+                    Sino a
+                    <del rend="overstrike">là</del>
+                    <add place="above">quel punto</add>
+                    andò tutto bene.
+                    Il problema più arduo fu
+                    <add place="above">quello</add>
+                    di trovare i nomi delle piante
+                    <del rend="overstrike">dipinte</del>,
+                    <del rend="overstrike">siccome</del>
+                    la Flora Salentina per me era completamente
+                    <del rend="overstrike">nuova</del>
+                    <add place="above">sconosciuta</add>.
+                </p>
+
+                <note place="margin">
+                    e nel mio ambiente qui non c'era nessuno
+                    che ne sapeva. Aveva a mio disposizione
+                    il libro di Marino Marinosci, ma senza
+                    sapere già il nome era quasi impossibile
+                    arrivare, ne c'erano libri sulla flora
+                    in vendita a Lecce.
+                </note>
+
+                <note place="margin">
+                    Imparai <unclear>?</unclear> a conoscerla,
+                    iniziando con un vecchio volume di
+                    Martino Marinosci.
+                </note>
+
+                <p>
+                    Dopo gli olii cominciai una flora
+                    in acquarelli sulle piante più
+                    rappresentative del Salento ed
+                    <del rend="overstrike">era è in atto</del>
+                    <add place="above">sto compiendo</add>
+                    un erbario
+                    <add place="above">della flora salentina</add>,
+                    che è pensato come un censimento,
+                    <del rend="overstrike">ma per finirlo
+                    ci vorrà del tempo</del>.
+                </p>
+
+                <p>
+                    Intanto i tempi sono cambiati e mi auguro,
+                    che con questa mostra si
+                    <del rend="overstrike">potrà</del>
+                    <add place="above">possa</add>
+                    fare un passo avanti per
+                    <del rend="overstrike">creare</del>
+                    <add place="above">il</add>
+                    rispetto e
+                    <del rend="overstrike">riguardo per</del>
+                    <add place="above">la tutela delle</add>
+                    la natura Salentina e
+                    <del rend="overstrike">la</del>
+                    <add place="above">della</add>
+                    sua meravigliosa flora.
+                </p>
+
+                <note place="margin">
+                    esplorare <unclear>?</unclear>
+                </note>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

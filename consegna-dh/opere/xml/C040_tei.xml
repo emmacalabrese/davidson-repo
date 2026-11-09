@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C040">
+
+<!-- Codifica XML/TEI della poesia C040 -->
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+        <title>Silene conica</title>
+        <author>Dagmar Davidson</author>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+        <date>2026</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>
+          Documento poetico manoscritto, identificato
+          con il codice C040, composto da un foglio.
+          Contiene una poesia dedicata alla Silene conica,
+          chiamata nel dialetto salentino campaneddhgi rossi,
+          e alla sua breve fioritura primaverile
+          nel paesaggio del Salento.
+
+          Il manoscritto è datato 31 marzo
+          e reca la firma di Dagmar Davidson Calabrese.
+          Conservato nella collezione privata
+          Dagmar Davidson.
+        </p>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+
+      <langUsage>
+        <language ident="it">Italiano</language>
+      </langUsage>
+
+    </profileDesc>
+
+  </teiHeader>
+
+  <text xml:lang="it">
+
+    <body>
+
+      <div type="poem" xml:id="silene-conica">
+
+        <head>Silene conica</head>
+
+        <head type="sub">I Campaneddhgi</head>
+
+        <!-- FOGLIO 1 -->
+
+        <div type="page" n="1">
+
+          <head>Foglio 1 di 1</head>
+
+          <dateline>31 Marzo</dateline>
+
+          <note type="material">
+            Componimento poetico manoscritto.
+            Il foglio reca la firma di Dagmar Davidson Calabrese.
+          </note>
+
+          <lg type="stanza">
+
+            <l>Una vecchia strada</l>
+            <l>malconcia</l>
+            <l>serpeggia</l>
+            <l>su per la collina.</l>
+            <l>I prati intorno</l>
+            <l>sono ancora vestiti</l>
+            <l>nel tenero verde</l>
+            <l>della primavera.</l>
+
+          </lg>
+
+          <lg type="stanza">
+
+            <l>Qui nella sabbia</l>
+            <l>fioriscono</l>
+            <l>i <name type="vernacular">campaneddhgi rossi</name></l>
+            <l>una fioritura</l>
+            <l>breve ed intensa,</l>
+            <l>prima che la natura</l>
+            <l>si bruci</l>
+            <l>ed ingiallisca.</l>
+
+          </lg>
+
+          <signed>
+            Firma:
+            <persName>Dagmar Davidson Calabrese</persName>
+          </signed>
+
+        </div>
+
+      </div>
+
+    </body>
+
+  </text>
+
+</TEI>

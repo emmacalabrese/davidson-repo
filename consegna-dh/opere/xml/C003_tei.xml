@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C003">
+
+<!-- Codifica XML/TEI della lettera C003 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Campi 17.4.1963</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Lettera manoscritta inviata da Dagmar Davidson
+                    a Maria Teresa Rapanà, identificata con il codice
+                    C003, datata 17 aprile 1963 e composta da
+                    tre fogli. Conservata nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="letter">
+
+                <opener>
+
+                    <dateline>
+                        <placeName>Campi</placeName>
+                        <date when="1963-04-17">17.4.1963</date>
+                    </dateline>
+
+                    <salute>Carissima Maria Theresa,</salute>
+
+                </opener>
+
+                <p>
+                    grazie tante per le belle cartoline di Cambridge
+                    che mi hai mandato. Devi scusarmi, se ho tardato
+                    di scrivere ma ho perso un pò l'abitudine,
+                    specialmente quando si tratta di scrivere
+                    in italiano. Ho anche saputo che ti trovi bene,
+                    anzi benissimo e che fai buoni progressi
+                    in inglese. Devo dire che mi fa tanto piacere,
+                    quasi come se <supplied reason="omitted">mi</supplied>
+                    trattasse
+                    <gap reason="unknown" extent="unknown"/>
+                </p>
+
+                <pb n="2"/>
+
+                <p>
+                    della mia lingua e il mio paese.
+                    Grandi cose di novità non ci sono qui.
+                    A marzo una quindicina di giorni è stata
+                    la bisnonna di Taranto e zia Silvia qui.
+                    La bisnonna non si sentiva tanto
+                    <supplied reason="omitted">bene</supplied>
+                    e aveva bisogno di conforto.
+                    Ora è partita per Genova. Speriamo che là
+                    si sentirà meglio.
+                </p>
+
+                <p>
+                    Le giornate per adesso sono bruttissime,
+                    fredde e piovose, tutt'altro che una bella
+                    primavera. Forse stai meglio in Inghilterra.
+                    Qua non si sogna neanche di mettere
+                    <unclear>tailleur</unclear>?
+                    I bambini portano ancora i suoi cento giri
+                    di lana, (una cosa, credo almeno, se la clima
+                    somiglia un pò quella svedese, che i bambini
+                    inglese non sognerebbero di mettere.)
+                    Però non si può
+                    <unclear>leggerirli</unclear>?
+                    Da quasi quindici giorni indietro hanno
+                    un forte raffreddore con lunga duratura,
+                    e Christina ha ripreso la sua solita tosse.
+                    Spero che almeno per pasqua saranno guariti.
+                    Mando tanti saluti dai bambini, che parlano
+                    di te e Inghilterra con tanti
+                    <w>entusi-<pb n="3"/>asmo</w>
+                    e tutto il tempo, che ho scritto,
+                    sono stati a
+                    <unclear>peso</unclear>?
+                    intorno a me. Hanno fatto cartoline
+                    per mandare a te. Non sono tanto belle.
+                    Andrea specialmente ha rovinato le sue.
+                </p>
+
+                <closer>
+
+                    <salute>
+                        Tanti auguri e
+                        Buona Pasqua
+                    </salute>
+
+                    <signed>tua aff. Dagmar</signed>
+
+                </closer>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

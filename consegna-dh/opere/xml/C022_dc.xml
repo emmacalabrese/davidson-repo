@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <!-- Metadati Dublin Core dell'item C022 -->
+
+    <dc:title>Orchis romana</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Botanica</dc:subject>
+    <dc:subject>Erbario disegnato</dc:subject>
+    <dc:subject>Orchis romana</dc:subject>
+    <dc:subject>Orchidaceae</dc:subject>
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:description>
+        Documento iconografico botanico attribuito a Dagmar Davidson,
+        raffigurante Orchis romana.
+        Il campione non presenta iscrizioni o annotazioni testuali visibili.
+        L'item è costituito dalla riproduzione digitale di un documento appartenente alla collezione privata Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C022</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C022.html</dc:relation>
+
+</dc:dc>

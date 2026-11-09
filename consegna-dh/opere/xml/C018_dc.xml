@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C018 -->
+
+    <dc:title>Children playing</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Bambini</dc:subject>
+
+    <dc:subject>Gioco</dc:subject>
+
+    <dc:subject>Tecnica mista</dc:subject>
+
+    <dc:description>
+        Opera di Dagmar Davidson realizzata con tecnica mista,
+        raffigurante bambini intenti a giocare.
+
+        Sul campione non sono presenti iscrizioni
+        o annotazioni descrittive. È visibile soltanto
+        un piccolo numero «1» nell'angolo.
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica di un'opera conservata
+        nella collezione privata Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C018</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C018.html</dc:relation>
+
+</dc:dc>

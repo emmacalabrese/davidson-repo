@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C028 -->
+
+    <dc:title>1971</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Ritaglio stampa</dc:subject>
+
+    <dc:subject>Dagmar Davidson</dc:subject>
+
+    <dc:subject>Mostra Elicona</dc:subject>
+
+    <dc:subject>Lecce</dc:subject>
+
+    <dc:subject>Pittura</dc:subject>
+
+    <dc:subject>Paesaggio salentino</dc:subject>
+
+    <dc:description>
+        Ritaglio di stampa pubblicato sulla Gazzetta del
+        Mezzogiorno domenica 23 maggio 1971, relativo alla
+        mostra personale della pittrice Dagmar Davidson
+        presso la galleria Elicona di Lecce. L'articolo
+        descrive la sua ricerca pittorica, il rapporto
+        con il paesaggio salentino e le caratteristiche
+        della sua sensibilità cromatica, sottolineando
+        l'incontro tra la cultura visiva nordica e i
+        colori del paesaggio meridionale.
+    </dc:description>
+
+    <dc:date>1971-05-23</dc:date>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C028</dc:identifier>
+
+    <dc:source>
+        La Gazzetta del Mezzogiorno, 23 maggio 1971
+    </dc:source>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C028.html
+    </dc:relation>
+
+</dc:dc>

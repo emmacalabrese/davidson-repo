@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc 
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C012 -->
+
+    <dc:title>Da disegnare</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Appunti</dc:subject>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:subject>Disegno botanico</dc:subject>
+
+    <dc:subject>Erbario</dc:subject>
+
+    <dc:subject>Identificazione botanica</dc:subject>
+
+    <dc:description>
+        Due fogli di appunti botanici di Dagmar Davidson
+        intitolati «Da disegnare», contenenti un elenco
+        numerato di specie vegetali accompagnate da
+        indicazioni relative alle località di osservazione
+        o raccolta e allo stato di realizzazione dei
+        disegni e degli erbari.
+
+        Il primo foglio comprende le voci numerate
+        da 1 a 13, con alcune irregolarità nella
+        successione numerica, e una colonna laterale
+        di località. Sono presenti indicazioni relative
+        a specie già disegnate o inserite nell'erbario,
+        oltre a osservazioni sulla distribuzione di
+        alcune piante.
+
+        Il secondo foglio, contrassegnato dal numero
+        54 dell'album, prosegue l'elenco con le voci
+        da 14 a 25. Comprende ulteriori specie
+        botaniche, località di osservazione e
+        annotazioni manoscritte a matita, tra cui
+        correzioni di località, indicazioni di controllo
+        e richieste di ridisegnare alcune specie.
+
+        Il documento è redatto prevalentemente
+        in inchiostro rosso, con annotazioni successive
+        a matita. Le indicazioni geografiche presenti
+        nelle colonne laterali non consentono sempre
+        un'associazione certa con le singole specie.
+        Conservato nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C012</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C012.html</dc:relation>
+
+    <dc:relation>C012_tei.xml</dc:relation>
+
+</dc:dc>

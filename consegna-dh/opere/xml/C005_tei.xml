@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C005">
+
+    <!-- Codifica XML/TEI del diario C005 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>1 gennaio 1988</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Pagina di diario manoscritta di Dagmar Davidson,
+                    identificata con il codice C005,
+                    datata 1 gennaio 1988 e composta da un foglio.
+                    Conservata nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+                <language ident="sv">Svedese</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="diary">
+
+                <dateline>
+                    <date when="1988-01-01">Primo Gennaio - 88</date>
+                </dateline>
+
+                <note type="printed">
+                    1 Gennaio Venerdì · S. Madre di Dio
+                </note>
+
+                <p>
+                    Ho dormito a lungo. Le faccende di casa;
+                    la pulizia; i fuochi nel caminetto e nella
+                    stufa; il pranzo hanno fatto, che presto
+                    si è arrivato fino alle 2-3 per poi continuare
+                    con il pranzo per gli animali ed i piatti.
+                </p>
+
+                <p>
+                    Stasera ho sistemato una stufa a gas nello
+                    studio e discusso con Gian-Paolo come
+                    sistemare la luce nello studio in modo
+                    migliore. È importante per di diventare
+                    più produttiva, migliorare come artista
+                    e organizzare i lavori casalinghi in modo
+                    di perdere meno tempo.
+                </p>
+
+                <p>
+                    Durante l'autunno ho rimandato tante cose,
+                    che non posso più permettermi
+                    <unclear>di fare</unclear>.
+                    Da oggi vorrei cominciare una nuova vita,
+                    una vita meno stressante, ma nello stesso
+                    tempo più attiva, per sentirmi più a mio agio,
+                    più realizzata. Non voglio più essere una
+                    persona infelice ed insicura. Non ho più
+                    ragione di esserlo. In fine conto ho una
+                    bella casa, un bravo marito, dei bravissimi
+                    figli, e in certo modo sono anche apprezzata
+                    come pittrice. Che posso chiedere di più.
+                    Non ho più ragione di piangere del latte
+                    versato. La salute è buona. Mi conviene
+                    di guardare con fiducia all'avvenire.
+                </p>
+
+                <note place="margin">
+                    Skriva till Blomsterfonden
+                    <unclear>Kontr.</unclear>
+                </note>
+
+                <note place="margin">
+                    Comprare domani: lampada a con filo
+                </note>
+
+                <note place="margin">
+                    Fare il diario per Andrea.
+                </note>
+
+                <note place="margin">
+                    Crocchette di riso
+                </note>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

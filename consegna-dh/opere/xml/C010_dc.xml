@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc 
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C010 -->
+
+    <dc:title>Anemoli - bozza di stampa Italiano Svedese</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Poesia</dc:subject>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Flora del Salento</dc:subject>
+
+    <dc:subject>Anemone coronaria</dc:subject>
+
+    <dc:subject>Fiori primaverili</dc:subject>
+
+    <dc:subject>Paesaggio rurale salentino</dc:subject>
+
+    <dc:subject>Poesia bilingue</dc:subject>
+
+    <dc:description>
+        Poesia di Dagmar Davidson dedicata agli anemoni
+        (Anemone coronaria), descritti come protagonisti
+        della fioritura primaverile nel paesaggio rurale
+        salentino. Il testo evoca il contrasto tra i fiori
+        dai petali luminosi e le scure zolle di terra,
+        sullo sfondo dei vecchi tronchi delle viti,
+        spogli e nodosi, nel mese di febbraio.
+
+        Il documento presenta il testo in italiano e
+        in svedese ed è conservato in forma di bozza
+        di stampa. Il foglio appartiene a un fascicolo
+        rilegato a spirale ed è contrassegnato come
+        pagina 4. Il supporto presenta danni causati
+        dalla muffa. Sono presenti correzioni a penna
+        e un'aggiunta manoscritta nella parte svedese.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C010</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:language>sv</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C010.html</dc:relation>
+
+    <dc:relation>C010_tei.xml</dc:relation>
+
+</dc:dc>

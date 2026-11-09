@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C019">
+
+    <!-- Codifica XML/TEI della poesia C019 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Julmeditation</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento poetico dattiloscritto in lingua
+                    svedese, identificato con il codice C019,
+                    conservato su un foglio appartenente
+                    a un'opera a tecnica mista.
+
+                    La poesia è collocata sotto il dipinto
+                    e risulta parzialmente coperta dal colore.
+
+                    Sull'immagine compare la firma e la data
+                    «D-73», riferibile al 1973.
+
+                    Il documento presenta inoltre annotazioni
+                    manoscritte a matita in lingua italiana.
+                    È conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="sv">Svedese</language>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="sv">
+
+        <body>
+
+            <div type="poem">
+
+                <head>Julmeditation</head>
+
+                <lg type="stanza">
+
+                    <l>I den tiden det leder sig <unclear>[?]</unclear>,</l>
+                    <l>att granarna skola klädas,</l>
+                    <l>att alla människor skola glädjas</l>
+                    <l>att alla barn skola få gåvor.</l>
+
+                </lg>
+
+                <lg type="stanza">
+
+                    <l>I den tiden</l>
+                    <l>ruvar vintern som mörkast,</l>
+                    <l>är människosinnet som dystrast,</l>
+                    <l>känns arbetsbördan som tyngst.</l>
+
+                </lg>
+
+                <lg type="stanza">
+
+                    <l>I den tiden</l>
+                    <l>lyser neonljusen som grällast,</l>
+                    <l>stå lövträden som naknast,</l>
+                    <l>är tystnaden i de stora skogarna som störst.</l>
+
+                </lg>
+
+                <lg type="stanza">
+
+                    <l>Då predikas glädjen och friden</l>
+                    <l>bland människorna, mitt i allt jäktet.</l>
+                    <l>Låtom oss stanna och besinna.</l>
+                    <l>Dröja i stillhet och eftertanke.</l>
+
+                </lg>
+
+                <lg type="stanza">
+
+                    <l>För att, när året lider mot sitt slut</l>
+                    <l>med mod och tillförsikt</l>
+                    <l>kunna se fram</l>
+                    <l>emot allt det okända,</l>
+                    <l>som ett kommande år bär i sitt sköte.</l>
+
+                </lg>
+
+            </div>
+
+            <div type="documentary-notes" xml:lang="it">
+
+                <head>Annotazioni sul documento</head>
+
+                <note>
+                    Annotazione manoscritta a matita
+                    in alto a destra:
+                    «Testo italiano 6».
+                </note>
+
+                <note>
+                    Annotazione manoscritta in basso:
+                    «Natale. Sv. 7».
+                </note>
+
+                <note>
+                    Firma e data sull'immagine:
+                    «D-73».
+                </note>
+
+                <note>
+                    Il testo poetico è parzialmente coperto
+                    dal colore dell'opera.
+                </note>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

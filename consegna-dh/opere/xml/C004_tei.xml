@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C004">
+
+<!-- Codifica XML/TEI della lettera C004 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Spizzico 1964</title>
+                <author>Raffaele Spizzico</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Lettera battuta a macchina ricevuta da Dagmar Davidson e inviata da Raffaele Spizzico, identificata con il codice C004, datata Bari 19 marzo 1964 e composta
+                    da un foglio. Conservata nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="letter">
+
+                <opener>
+
+                    <dateline>
+                        <placeName>Bari</placeName>
+                        <date when="1964-03-19">19 Marzo 1964</date>
+                    </dateline>
+
+                    <salute>Gentile Sig.ra DAGMAR DAVIDSON,</salute>
+
+                </opener>
+
+                <p>
+                    é ancora vivo in me il ricordo di quel singolare
+                    paese - Campi Salentina - dove lei vive.
+                    I colori delle sue case: il celeste, il giallino,
+                    il rosa, il bianco calce e il nero asfalto,
+                    battuti dall'incandescenza del sole che tutto
+                    avvolge, mi fanno ritornare, col pensiero,
+                    ai suoi quadri che ho avuto modo di vedere
+                    in occasione della ultima visita al suo studio.
+                </p>
+
+                <p>
+                    Il suo linguaggio pittorico è pulito e le sue idee
+                    sull'Arte sono oneste, così come onesta è stata
+                    la lezione del suo Maestro Roberto Melli.
+                </p>
+
+                <p>
+                    Lei, con la sua ricerca, ha saputo scandagliare
+                    senza avvalersi di frastuoni, procedendo con
+                    avvedutezza che non è freddezza, ma calcolato
+                    equilibrio.
+                </p>
+
+                <p>
+                    Mi ha parlato di una sua probabile mostra personale
+                    chiedendo il mio parere: la tenga pure, scelga
+                    fra i tanti quadri, e le faccio molti auguri.
+                </p>
+
+                <closer>
+
+                    <signed>Raffaele Spizzico</signed>
+
+                </closer>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core della poesia C032 -->
+
+    <dc:title>Bellis</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Poesia</dc:subject>
+
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:subject>Bellis perennis</dc:subject>
+
+    <dc:description>
+        Poesia dedicata alle margheritine del Salento,
+        conservata in tre versioni manoscritte: una bozza
+        intitolata Margheritine, una versione per la stampa
+        appartenente al ciclo La primavera del Salento
+        e una versione firmata. Il testo descrive l'inizio
+        della primavera salentina nel mese di febbraio.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C032</dc:identifier>
+
+    <dc:language>it</dc:language>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C032.html
+    </dc:relation>
+
+    <dc:relation>
+        C032_tei.xml
+    </dc:relation>
+
+</dc:dc>

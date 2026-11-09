@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C006 -->
+
+    <dc:title>Sono sempre stata fiera…</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Saggistica</dc:subject>
+
+    <dc:subject>Autobiografia</dc:subject>
+
+    <dc:subject>Memorie d'infanzia</dc:subject>
+
+    <dc:subject>Protezione della natura</dc:subject>
+
+    <dc:subject>Salento</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:description>
+        Testo dattiloscritto di Dagmar Davidson, con correzioni
+        e aggiunte manoscritte, nel quale l'autrice ripercorre
+        i ricordi d'infanzia in Svezia, il trasferimento nel
+        Salento e la propria attività artistica, soffermandosi
+        sull'interesse per la protezione della natura e sulla
+        conoscenza della flora salentina. Il documento originale
+        è composto da due fogli.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C006</dc:identifier>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C006.html
+    </dc:relation>
+
+    <dc:relation>
+        C006_tei.xml
+    </dc:relation>
+
+</dc:dc>

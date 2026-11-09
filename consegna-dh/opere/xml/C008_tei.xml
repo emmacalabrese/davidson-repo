@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C008">
+
+    <!-- Codifica XML/TEI del testo C008 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Flora primaverile</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento dattiloscritto introduttivo
+                    alla ricerca pittorica di Dagmar Davidson
+                    sulla flora primaverile del Salento,
+                    identificato con il codice C008,
+                    composto da un foglio.
+                    Presenta piccole correzioni a penna
+                    e una scrittura manoscritta visibile
+                    in trasparenza sul verso.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="prose">
+
+                <head>La Flora primaverile del Salento</head>
+
+                <p>
+                    A quanto so la gran parte della popolazione d'Italia e di tutta l'Europa, del resto, credono che il profondo Sud dell'Italia è una terra arida e bruciata, dove non cresce niente, un'insegna della povertà. Il mio intento con questa mostra non é di venire con polemiche, vorrei solo dare una visione della ricchissima flora campestra Salentina e mostrare come la natura cambia durante gli intensi mesi primaverili. Non è un lavoro molto completo,ho solo ritratto quei fiori, che più mi hanno colpito durante le mie passeggiate nelle strette vicinanze del paese, dove abito. Ho preferito dipingerli direttamente sul posto dove crescono, poiché i fiori campestri sono delicati, si sciupano assai presto e la loro vera bellezza si nota principalmente nel loro ambiente naturale.
+                    Durante la grande fioritura in Aprile, Maggio è difficile che si trovi una pianta sola ma una massa di fiori diversi sullo stesso posto, quasi fioriscono in strati i più bassi sotto, i medi e i più alti, in un intreccio di colori.
+                </p>
+
+                <p>
+                    Molte cose mi hanno spinto a questo lavoro, fra l'altro l'ignoranza e l'indifferenza assoluta sulla flora campestre, che generalmente va sotto un unico nome "erbaccia" e che come tale bisogna distruggere. L'antica cultura contadina trapiantata da generazione in
+                    generazione sta sparendo, anche se si puo' ancora trovare alcuni vecchi contadini, per i quali la conoscenza delle piante campestre è almeno limitata a distinguere le erbe mangerecce e le medicinali. Fra loro pero' c'è chi già si lamenta; 'questo e quel fiore, che ho spesso raccolto, quando ero bambino, non lo vedo più. Sai le "medecine"......'. Purtroppo con l'uso e l'abuso di anticrittogamici e diserbanti le piante rare e delicate sono le prime a morire, mentre la vera erbaccia si salva sempre.
+                </p>
+
+                <p>
+                    Nei giorni nostri l'interesse per la natura è minimo, specialmente tra i giovani. Forse per colpa della motorizzazione crescente, le strade asfaltate, la fretta di arrivare. C'è anche, a quanto ne so io, che l'insegnamento della flora campestre, come si riconosce e cataloga una pianta, non c'è nelle scuole.
+                </p>
+
+                <p>
+                    Ai miei quadri ho aggiunto una nota scientifica, tratta dal libro Flora Salentina di Martino Marinosci, un medico e scienziato vissuto nella prima metà del 1800.
+                </p>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

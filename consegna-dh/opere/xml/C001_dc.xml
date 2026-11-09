@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core della poesia C001 -->
+
+    <dc:title>Ode alla donna di casa</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Poesia</dc:subject>
+
+    <dc:subject>Attività domestiche quotidiane</dc:subject>
+
+    <dc:description>
+        Poesia manoscritta di Dagmar Davidson dedicata
+        alle attività domestiche quotidiane. Il documento
+        originale è composto da un foglio.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C001</dc:identifier>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C001.html
+    </dc:relation>
+
+    <dc:relation>
+        C001_tei.xml
+    </dc:relation>
+
+</dc:dc>

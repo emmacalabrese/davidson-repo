@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C032">
+
+<!-- Codifica XML/TEI della poesia C032 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Bellis</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento manoscritto composto da tre fogli,
+                    identificato con il codice C032 e conservato
+                    nella collezione privata Dagmar Davidson.
+
+                    Contiene tre versioni della poesia Bellis,
+                    dedicata alle margheritine e alla primavera
+                    del Salento: una bozza intitolata
+                    Margheritine, una versione per la stampa
+                    appartenente al ciclo La primavera del Salento
+                    e una versione firmata dall'autrice.
+
+                    Il primo foglio presenta cancellature,
+                    aggiunte e correzioni manoscritte.
+                    Il secondo contiene indicazioni relative
+                    all'illustrazione e alla nota botanica.
+                    Il terzo reca la firma Dagmar Davidson Calabrese.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="poem">
+
+                <head>Bellis</head>
+
+          <!-- FOGLIO 1 -->
+
+                <div type="page" n="1">
+
+                    <head>Foglio 1 di 3 – Bozza</head>
+
+                    <dateline>20 Febbraio</dateline>
+
+                    <head>Margheritine</head>
+
+                    <note type="material">
+                        Bozza manoscritta con cancellature
+                        e aggiunte.
+                        In alto a sinistra è presente
+                        una macchia di colore.
+                    </note>
+
+                    <lg>
+
+                        <l>Siamo in febbraio</l>
+                        <l>e la lunga primavera</l>
+                        <l>del Salento</l>
+                        <l>sta cominciando.</l>
+                        <l>Tra ruderi caduti</l>
+                        <l>e terreni abbandonati</l>
+                        <l>un sentiero si aggira,</l>
+                        <l>serpeggia,</l>
+                        <l>come un bianco ruscello,</l>
+                        <l>coperto</l>
+                        <l>da mille e mille</l>
+                        <l>piccolissime margheritine.</l>
+                        <l>
+                            Le vite e i cespugli
+                            <unclear cert="low">[?]</unclear>
+                        </l>
+                        <l>stanno ancora</l>
+                        <l>nudi e marroncini</l>
+                        <l>tra qualche tenera</l>
+                        <l>erbetta verde.</l>
+                        <l>Solo i mandorli</l>
+                        <l>
+                            sono
+                            <del>fioriti</del>
+                            <add>in fiore</add>
+                        </l>
+                        <l>
+                            con
+                            <del>delle</del>
+                            cascate
+                        </l>
+                        <l>
+                            di candidi
+                            <del>fiori</del>
+                            <add>petali</add>,
+                        </l>
+                        <l>bianchi e profumati.</l>
+
+                    </lg>
+
+                </div>
+
+          <!-- FOGLIO 2 -->
+
+                <div type="page" n="2">
+
+                    <head>Foglio 2 di 3 – Versione per la stampa</head>
+
+                    <note type="editorial">
+                        Dal ciclo: La primavera del Salento.
+                    </note>
+
+                    <head>Bellis</head>
+
+                    <lg>
+
+                        <l>Siamo in febbraio,</l>
+                        <l>la lunga primavera</l>
+                        <l>del Salento</l>
+                        <l>sta cominciando.</l>
+                        <l>Tra ruderi caduti</l>
+                        <l>e terreni abbandonati</l>
+                        <l>un sentiero si aggira,</l>
+                        <l>serpeggia</l>
+                        <l>come un bianco ruscello,</l>
+                        <l>coperto</l>
+                        <l>da mille e mille</l>
+                        <l>piccolissime margheritine.</l>
+                        <l>Le vite, i cespugli</l>
+                        <l>stanno ancora</l>
+                        <l>nudi e marroncini</l>
+                        <l>tra qualche tenera</l>
+                        <l>erbetta verde.</l>
+                        <l>Solo i mandorli</l>
+                        <l>stanno in fiore,</l>
+                        <l>bianchi e profumati.</l>
+
+                    </lg>
+
+                    <note type="illustration">
+                        Illustrazione in acquarello.
+                    </note>
+
+                    <note type="bibliographic">
+                        Nota botanica dalla Flora Salentina
+                        di Martino Marinosci.
+                    </note>
+
+                    <note type="observation">
+                        In trasparenza si legge un testo
+                        in svedese, dal foglio sottostante.
+                    </note>
+
+                </div>
+
+          <!-- FOGLIO 3 -->
+
+                <div type="page" n="3">
+
+                    <head>Foglio 3 di 3 – Versione firmata</head>
+
+                    <dateline>
+                        20 Febbraio
+                        <note place="margin">1.</note>
+                    </dateline>
+
+                    <head>Bellis</head>
+
+                    <lg>
+
+                        <l>Siamo in febbraio.</l>
+                        <l>La lunga primavera</l>
+                        <l>del Salento</l>
+                        <l>sta cominciando.</l>
+                        <l>Tra ruderi caduti</l>
+                        <l>e terreni abbandonati</l>
+                        <l>un sentiero si aggira,</l>
+                        <l>serpeggia</l>
+                        <l>come un bianco ruscello,</l>
+                        <l>coperto</l>
+                        <l>da mille e mille</l>
+                        <l>piccolissime margheritine.</l>
+                        <l>Le vite, i cespugli</l>
+                        <l>stanno ancora</l>
+                        <l>nudi e marroncini</l>
+                        <l>tra qualche tenera</l>
+                        <l>erbetta verde.</l>
+                        <l>Solo i mandorli</l>
+                        <l>stanno in fiore,</l>
+                        <l>bianchi e profumati.</l>
+
+                    </lg>
+
+                    <signed>Dagmar Davidson Calabrese</signed>
+
+                </div>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

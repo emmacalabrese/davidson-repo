@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+	xml:id="C010">
+
+    <!-- Codifica XML/TEI della poesia C010 -->
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+        <title>Anemoli - bozza di stampa Italiano Svedese</title>
+        <author>Dagmar Davidson</author>
+      </titleStmt>
+
+      <publicationStmt>
+           <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+           <date>2026</date>
+      </publicationStmt>
+
+      <sourceDesc>
+			<p> Documento poetico bilingue, identificato con il codice C010, composto da un foglio. Il foglio corrisponde alla pagina 4 di una bozza di stampa rilegata a spirale. Il documento presenta danni causati dalla muffa, correzioni a penna e un'aggiunta manoscritta nella parte in lingua svedese.
+			Conservato nella collezione privata Dagmar Davidson.
+			</p>
+      </sourceDesc>
+
+    </fileDesc>
+
+	<profileDesc>
+	   <langUsage>
+	       <language ident="it">Italiano</language>
+	       <language ident="sv">Svedese</language>
+	   </langUsage>
+	</profileDesc>
+
+  </teiHeader>
+
+  <text xml:lang="it" xml:lang="sv">
+
+    <body>
+
+     <div type="poem">
+
+        <pb n="4"/>
+
+        <dateline>
+          <date>28 Febbraio</date>
+        </dateline>
+
+    	<head>
+            <title>Anemone coronaria. Anemoli</title>
+        </head>
+
+        <lg type="stanza" xml:lang="it">
+
+          <l>Anemoli, i principali siete</l>
+          <l>dei fiori della primavera.</l>
+          <l>Tra scure zolle di terra.</l>
+          <l>I vostri larghi petali</l>
+          <l>luccicano allegramente</l>
+          <l>sotto il tiepido sole</l>
+          <l>di Febbraio,</l>
+          <l>ed intorno a voi</l>
+          <l>i vecchi tronchi delle vite,</l>
+          <l>nudi e nodosi si contorcono</l>
+          <l>quasi portassero sulle spalle</l>
+          <l>tutte le fatiche di questo mondo.</l>
+
+    	</lg>
+
+        <head>
+        	<title>Anemoner</title>
+        </head>
+
+        <lg type="stanza" xml:lang="sv">
+
+          <l>Anemonerna,</l>
+          <l>vårblomman framför andra.</l>
+          <l>Som vioblå stänk</l>
+          <l>lyser den bland jordkotorna</l>
+          <l>under mild februarisol,</l>
+          <l>medan fältens vinstockar,</l>
+          <l>
+            <add place="above">nakna och knotiga</add>
+          </l>
+          <l>vrider och buktar sig,</l>
+          <l>som bure de</l>
+          <l>på all världens möda.</l>
+
+        </lg>
+
+      <note type="editorial">
+          Correzioni a penna sul testo italiano
+          «Anemoli, i» e sul termine svedese «stänk».
+          L'aggiunta manoscritta «nakna och knotiga»
+          è stata trascritta nel punto in cui compare
+          nel documento.
+        </note>
+
+      </div>
+
+    </body>
+
+  </text>
+
+</TEI>

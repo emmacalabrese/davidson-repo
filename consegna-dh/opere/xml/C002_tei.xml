@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C002">
+
+    <!-- Codifica XML/TEI della poesia C002 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Rosa arvensis, rosa di macchia</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento poetico manoscritto,
+                    identificato con il codice C002,
+                    composto da un foglio.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="poem">
+
+                <head>Rosa arvensis, rosa di macchia</head>
+
+                <lg type="stanza">
+
+                    <l>Su un muretto in frantumi,</l>
+                    <l>lungo una viuzza di campagna</l>
+                    <l>piena di erba,</l>
+                    <l>si arrampica</l>
+                    <l>una Rosa campestre</l>
+                    <l>con candide corolle bianche,</l>
+                    <l>a fianco a fianco</l>
+                    <l>di Salsa nostrale o Smilax,</l>
+                    <l>cui nome viene</l>
+                    <l>dall'antica ninfa Smilace.</l>
+                    <l>Nelle briciole</l>
+                    <l>di terra rimasta</l>
+                    <l>combattono</l>
+                    <l>le salvie,</l>
+                    <l>vestite in pallido viola,</l>
+                    <l>con i Rizomoli prominenti,</l>
+                    <l>mentre <del rend="overstrike">che</del> sotto <del rend="overstrike">tutte</del></l>
+                    <l>una fumaria strisciante</l>
+                    <l>si allarga.</l>
+
+                </lg>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

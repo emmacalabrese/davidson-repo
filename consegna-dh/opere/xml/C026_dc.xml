@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <dc:title>Harvard 1993</dc:title>
+
+    <dc:subject>Fotografia</dc:subject>
+    <dc:subject>Mostra</dc:subject>
+    <dc:subject>Harvard</dc:subject>
+    <dc:subject>1993</dc:subject>
+
+    <dc:description>
+        Documento fotografico relativo alla mostra di Harvard
+        del 1993.
+
+        Nell'immagine è visibile, su un tavolo, un cartello
+        recante la dicitura «EXHIBITION INFORMATION».
+
+        Sul documento fotografico non sono presenti
+        iscrizioni descrittive.
+
+        La riproduzione digitale documenta un elemento
+        della memoria espositiva e dell'attività artistica
+        di Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C026</dc:identifier>
+
+    <dc:date>1993</dc:date>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:relation>../C026.html</dc:relation>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+</dc:dc>

@@ -1,0 +1,55 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core della tavola botanica C024 -->
+
+    <dc:title>Mappa della flora del Salento</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Flora del Salento</dc:subject>
+
+    <dc:subject>Cartografia botanica</dc:subject>
+
+    <dc:subject>Lecce</dc:subject>
+
+    <dc:subject>Illustrazione botanica</dc:subject>
+
+    <dc:description>
+        Tavola botanica illustrata raffigurante la flora del
+        Salento, realizzata da Dagmar Davidson. La mappa
+        riporta il riferimento geografico alla città di Lecce
+        ed è accompagnata da rappresentazioni di piante,
+        numerate a matita e inchiostro. La firma DDavidson
+        è presente in basso a destra. Il documento è
+        digitalizzato in sei immagini: una riproduzione
+        complessiva della mappa e cinque dettagli che
+        consentono di osservare le annotazioni numeriche
+        e gli elementi grafici. Data di realizzazione non
+        documentata.
+    </dc:description>
+
+    <dc:type>Image</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C024</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C024.html</dc:relation>
+
+</dc:dc>

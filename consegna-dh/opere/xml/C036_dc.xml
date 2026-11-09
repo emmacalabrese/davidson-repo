@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Margheritine</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Disegno botanico raffigurante margheritine
+    (Bellis perennis), appartenente al ciclo
+    La primavera del Salento.
+  </dc:description>
+
+  <dc:subject>Erbario disegnato</dc:subject>
+  <dc:subject>Bellis perennis</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+
+  <dc:type>StillImage</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:identifier>C036</dc:identifier>
+
+  <dc:language>zxx</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C036.html
+  </dc:relation>
+
+</dc:dc>

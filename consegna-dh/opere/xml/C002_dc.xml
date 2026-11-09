@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core della poesia C002 -->
+
+    <dc:title>Rosa arvensis, rosa di macchia</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Poesia</dc:subject>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Flora del Salento</dc:subject>
+
+    <dc:subject>Rosa arvensis</dc:subject>
+
+    <dc:description>
+        Poesia di Dagmar Davidson dedicata alla flora spontanea e alla vegetazione di campagna. Il testo è tratto dall'opera La Primavera del Salento. Il documento originale è composto da un foglio.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C002</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C002.html
+    </dc:relation>
+
+    <dc:relation>
+        C002_tei.xml
+    </dc:relation>
+
+</dc:dc>

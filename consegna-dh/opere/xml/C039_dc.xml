@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Disegno botanico di Anemone Coronaria</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Disegno botanico di Anemone coronaria appartenente
+    al ciclo La primavera del Salento.
+    Il foglio presenta numeri annotati a matita
+    accanto alle piante (3 e 4) e la filigrana
+    della carta «C.M. FABRIANO».
+  </dc:description>
+
+  <dc:subject>Botanica</dc:subject>
+  <dc:subject>Erbario disegnato</dc:subject>
+  <dc:subject>Disegno botanico</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+  <dc:subject>Anemone coronaria</dc:subject>
+
+  <dc:type>StillImage</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:identifier>C039</dc:identifier>
+
+  <dc:language>zxx</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C039.html
+  </dc:relation>
+
+</dc:dc>

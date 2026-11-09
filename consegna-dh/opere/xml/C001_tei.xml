@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C001">
+
+    <!-- Codifica XML/TEI della poesia C001 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Ode alla donna di casa</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>
+                    Documento poetico manoscritto,
+                    identificato con il codice C001,
+                    composto da un foglio.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+	<text xml:lang="it">
+
+		<body>
+            <div type="poem">
+
+                <head>Ode alla donna di casa</head>
+
+                <lg type="stanza">
+
+                    <l>Quante mi annoiate</l>
+                    <l>voi umile</l>
+                    <l>facende di casa</l>
+                    <l>giorno per giorno</l>
+                    <l>pavimenti</l>
+                    <l>polvere</l>
+                    <l>scarpe</l>
+                    <l>che una volta fatte</l>
+                    <l>nessuno <unclear>me</unclear> nota</l>
+                    <l>nessun <unclear>me</unclear> apprezza</l>
+                    <l>ma se non si facesse</l>
+                    <l>finirebbe in macello</l>
+                    <l>per voi</l>
+                    <l>che non alzate le mane</l>
+                    <l>Perciò</l>
+                    <l>mentre strofino</l>
+                    <l>stanza per stanza</l>
+                    <l>automaticamente</l>
+                    <l>giorno per giorno</l>
+                    <l>ti prego</l>
+                    <l>pegaso</l>
+                    <l>mi presta le ali.</l>
+
+                </lg>
+
+            </div>
+
+        </body>
+    </text>
+
+</TEI>

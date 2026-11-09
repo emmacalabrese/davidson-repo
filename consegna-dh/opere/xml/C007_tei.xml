@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C007">
+
+<!-- Codifica XML/TEI del ritaglio stampa C007 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Quaderni Salentini 1989</title>
+                <author>C. G. T.</author>
+                <respStmt>
+                    <resp>Persona oggetto dell'articolo</resp>
+                    <name>Dagmar Davidson</name>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>
+                    Edizione digitale dell'Archivio Dagmar Davidson.
+                </p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <title>Quaderni Salentini</title>
+                    <date when="1989">1989</date>
+                    <biblScope unit="page">16</biblScope>
+                    <author>C. G. T.</author>
+                </bibl>
+                <p>
+                    Ritaglio stampa conservato nella collezione privata Dagmar Davidson, identificato con il codice C007.
+                    Il documento è composto da un foglio a stampa.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="newspaperArticle">
+
+                <head>
+                    DAGMAR DAVIDSON, dalla Svezia alla flora salentina
+                </head>
+
+                <byline>di C. G. T.</byline>
+
+                <p>
+                    Nell'ambito della pittura salentina, ed anche
+                    pugliese, Dagmar Davidson occupa a buon diritto
+                    un posto ben definito.
+                </p>
+
+                <p>
+                    Dopo lunghi anni di attiva militanza dinanzi
+                    al cavalletto, in piena aria come nei tempi antichi,
+                    nel sapiente uso dei colori ad olio ed ad acquarello,
+                    appreso nei suoi studi presso le Accademie di belle
+                    Arti di Stoccolma e di Roma, Lei ha saputo
+                    conquistarsi un ruolo di tale eminenza che la pone
+                    tra le più originali interpreti della variegata
+                    Natura Salentina.
+                </p>
+
+                <p>
+                    Di derivazione figurativa, ma con un vagamente
+                    affiorante pizzico metafisico, da cogliere con calma
+                    in alcuni particolari descrittivi, mediante una
+                    raffinata tecnica di gusto intellettuale e dal
+                    cromatismo concettuale, Lei riesce a rendere
+                    nelle sue opere un particolare effetto di rarefatto
+                    velo di impronta informale che, almeno a mio parere,
+                    superando il coinvolgente impatto realistico
+                    si tramuta via via in impalpabile atmosfera
+                    di infiniti spazi e di intime ricchezze spirituali.
+                </p>
+
+                <p>
+                    Atmosfera dove il confine tra il segno ed il desiderio
+                    si allarga nella profondità di una realtà emotiva
+                    che trascina qualsiasi osservatore, anche il più
+                    sprovveduto, verso il godimento di un patrimonio
+                    ambientale ineguagliabile.
+                </p>
+
+                <p>
+                    Le spiagge assolate, i fiori, le case di campagna,
+                    gli antichi olivi, i vastissimi campi, le macchie
+                    mediterranee, nella sostanza, si ingigantiscono
+                    per occupare la sfera dei sentimenti e si amalgamano
+                    come per magica simbiosi artistica con gli uomini
+                    che, in ogni modo, sono come presenti formando
+                    un tutto omogeneo al suo interiore mondo
+                    di poesia colorata.
+                </p>
+
+                <p>
+                    L'esplosione dei fiori, il puntiglioso ritrovarsi
+                    nella natura salentina, gli aspetti magici
+                    di questa terra antica si traducono così
+                    nelle premesse intellettuali alla sfera
+                    dei sentimenti che sono alla base
+                    della sua ispirazione artistica.
+                </p>
+
+                <p>
+                    Perchè spontaneamente, certamente senza calcoli
+                    o cerebralismi, la Davidson, occupa buona parte
+                    della sua ricerca costante alla luce, lasciando
+                    vibrare la superficie della tela ai chiarori
+                    smorzati di calanti crepuscoli, quando i contorni
+                    delle cose si sfumano tanto da non potere più
+                    distinguere tra emozioni e consistenza della realtà,
+                    per ritrovarsi nella sofferta visione di un mondo
+                    che si avvia alla notte.
+                </p>
+
+                <p>
+                    Ed allora, i suoi dipinti, al di là delle compiaciute
+                    ed appaganti immagini, a pensarci bene, divengono
+                    luogo di memoria, di nostalgia profonda, dove
+                    si accumula l'amarezza per perdute realtà,
+                    nel momento emblematico di una particolare
+                    condizione storica ed economica che vede l'uomo
+                    stupidamente impoverire e ridurre la sfera
+                    delle naturali possibilità di vita.
+                </p>
+
+                <p>
+                    Così, dalla nordica impronta del Linneo ai profondi
+                    studi e ricerche sulla flora salentina, i dipinti
+                    di Dagmar Davidson, svedese-campiota, divengono
+                    pretesto per un discorso più ampio che coinvolge
+                    gli aspetti e le vicende dell'attuale società
+                    e la sfrenata corsa verso il potere senza che venga
+                    considerato l'uomo e l'ambiente in cui è inserito.
+                </p>
+
+                <p>
+                    Il dramma ecologico, l'inquietudine di oggi
+                    sono risolti e proposti atraverso una
+                    rappresentazione, talvolta allucinata,
+                    della esplosione cromatica del caleidoscopico
+                    tappeto vegetale, tanto degradato ora
+                    dall'aggressione irragionevole dell'uomo.
+                </p>
+
+                <p>
+                    Un recupero di memorie che credevamo perdute;
+                    un appello che non può disperdersi nel deserto;
+                    una testimonianza "straniera" di amore e rispetto
+                    per la nostra terra salentina.
+                </p>
+
+                <figure>
+                    <figDesc>
+                        Veduta dall'altura di S. Elia
+                    </figDesc>
+                </figure>
+
+                <note type="editorial">
+                    Sotto l'articolo compare una pubblicità
+                    dei Fratelli Romano s.n.c., Campi Salentina,
+                    non trascritta.
+                </note>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

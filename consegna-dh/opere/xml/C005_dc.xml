@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del diario C005 -->
+
+    <dc:title>1 gennaio 1988</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Diario</dc:subject>
+
+    <dc:subject>Autobiografia</dc:subject>
+
+    <dc:description>
+        Pagina di diario manoscritta di Dagmar Davidson,
+        relativa al 1 gennaio 1988. L'autrice riflette
+        sulla propria vita familiare, sull'attività artistica
+        e sui propositi per il nuovo anno. Il documento
+        originale è composto da un foglio.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C005</dc:identifier>
+
+    <dc:source>
+        Collezione privata Dagmar Davidson
+    </dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>
+        ../C005.html
+    </dc:relation>
+
+    <dc:relation>
+        C005_tei.xml
+    </dc:relation>
+
+</dc:dc>

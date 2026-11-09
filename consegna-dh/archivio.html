@@ -1,0 +1,491 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Tutto l'archivio — Archivio Dagmar Davidson</title>
+
+<!-- Dublin Core Metadata -->
+  <link rel="schema.DC"
+    href="http://purl.org/dc/elements/1.1/">
+
+  <meta name="DC.title" content="Catalogo generale – Archivio Dagmar Davidson">
+  <meta name="DC.creator" content="Emma Calabrese">
+  <meta name="DC.subject" content="Dagmar Davidson">
+  <meta name="DC.subject" content="Collezione Dagmar Davidson">
+  <meta name="DC.subject" content="Archivio digitale">
+  <meta name="DC.subject" content="Catalogazione documentaria">
+  <meta name="DC.description" content="Catalogo generale dell'Archivio Dagmar Davidson, che raccoglie e organizza le risorse digitali appartenenti alle diverse sezioni della collezione.">
+  <meta name="DC.publisher" content="Associazione Casa Museo Calabrese">
+  <meta name="DC.contributor" content="Famiglia Davidson Calabrese">
+  <meta name="DC.date" content="2026-10">
+  <meta name="DC.type" content="Collection">
+  <meta name="DC.format" content="text/html">
+  <meta name="DC.language" content="it">
+  <meta name="DC.source" content="Collezione privata">
+  <meta name="DC.coverage" content="Svezia e Italia meridionale; XX-XXI secolo">
+  <meta name="DC.rights" content="Condizioni di accesso e riutilizzo dei materiali da verificare">
+
+<!-- CSS -->
+  <link rel="stylesheet" href="css/stile.css">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+<!-- ===== TESTATA (uguale in tutte le pagine) ===== -->
+<header class="testata">
+  <div class="contenitore">
+    <div>
+      <a class="nome" href="index.html">Archivio Dagmar Davidson</a>
+      <p class="sottotitolo">Pittrice e poetessa · Örebro – Campi Salentina</p>
+    </div>
+
+  <!-- Integrazione della componente Search Bar di w3School -->
+    <div class="contenitore-ricerca">
+      <input type="text" placeholder="Cerca..." name="search">
+      <button type="submit">
+        <i class="fa fa-search"></i>
+      </button>
+    </div>
+
+  </div>
+</header>
+
+<!-- == BARRA DI NAVIGAZIONE (uguale in tutte le pagine) == -->
+<nav class="menu">
+  <div class="contenitore">
+    <a href="index.html">Home</a>
+    <a href="scritti.html">Scritti</a>
+    <a href="opere-d-arte.html">Opere d'arte</a>
+    <a href="botanica.html">Botanica</a>
+    <a href="media-e-memorie.html">Media e memorie</a>
+    <a href="archivio.html" class="attivo">Tutto l'archivio</a>
+    <a href="biografia.html">La vita di Dagmar Davidson</a>
+  </div>
+</nav>
+
+<!-- CONTENUTO PRINCIPALE -->
+<main>
+  <div class="contenitore">
+    <div class="pagina">
+      <div class="risultati-testa">
+        <h1>Tutto l'archivio: 41 opere</h1>
+        <a id="azzera" href="archivio.html" hidden>Togli tutti i filtri</a>
+      </div>
+
+<!-- I FILTRI qui sotto sono ricreati da js/filtri.js leggendo data-sezione, data-categoria
+           e data-tag di ogni opera -->
+      <div class="filtri">
+        <div class="riga-filtri"><span class="nome-filtro">Sezione</span><div>
+          <a href="scritti.html">Scritti <span class="conta">15</span></a>
+          <a href="opere-d-arte.html">Opere d&#x27;arte <span class="conta">9</span></a>
+          <a href="botanica.html">Botanica <span class="conta">9</span></a>
+          <a href="media-e-memorie.html">Media e memorie <span class="conta">8</span></a>
+        </div></div>
+        <div class="riga-filtri"><span class="nome-filtro">Tag</span><div>
+          <a href="tag/autobiografia.html">autobiografia <span class="conta">2</span></a>
+          <a href="tag/autoritratto.html">autoritratto <span class="conta">1</span></a>
+          <a href="tag/campi-salentina.html">Campi Salentina <span class="conta">6</span></a>
+          <a href="tag/famiglia.html">famiglia <span class="conta">2</span></a>
+          <a href="tag/lecce.html">Lecce <span class="conta">2</span></a>
+          <a href="tag/mostra-elicona-1971.html">Mostra - Elicona 1971 <span class="conta">1</span></a>
+          <a href="tag/mostra-harvard-1993.html">Mostra - Harvard 1993 <span class="conta">2</span></a>
+          <a href="tag/mostra-maccagnani-1964.html">Mostra - Maccagnani 1964 <span class="conta">2</span></a>
+          <a href="tag/pianta-anemone-coronaria.html">Pianta - Anemone Coronaria <span class="conta">4</span></a>
+          <a href="tag/pianta-bellis-perennis.html">Pianta - Bellis Perennis <span class="conta">3</span></a>
+          <a href="tag/pianta-reseda.html">Pianta - Reseda <span class="conta">3</span></a>
+          <a href="tag/pianta-silene-conica.html">Pianta - Silene Conica <span class="conta">3</span></a>
+          <a href="tag/primavera-del-salento.html">Primavera del Salento <span class="conta">16</span></a>
+          <a href="tag/svezia.html">Svezia <span class="conta">3</span></a>
+        </div></div>
+      </div>
+
+      <p id="nessuna" class="avviso" hidden>Nessuna opera corrisponde ai filtri scelti.</p>
+
+<!-- OGNI OPERA: data-sezione, data-categoria e data-tag (più tag separati da ;) servono ai filtri -->
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="">
+        <a href="opere/C001.html"><img src="asset/miniature/C001-1.jpg" alt="Poesia manoscritta" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C001.html">Ode alla donna di casa</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="">
+        <a href="opere/C002.html"><img src="asset/miniature/C002-1.jpg" alt="Poesia Rosa arvensis" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C002.html">Rosa arvensis</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Lettera" data-tag="famiglia; Campi Salentina">
+        <a href="opere/C003.html"><img src="asset/miniature/C003-1.jpg" alt="Lettera inviata Campi 17.4.1963" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C003.html">Campi 17.4.1963</a></h3>
+          <div class="categoria">Scritti › Lettera · inviata · 3 fogli</div>
+          <div><a class="tag" href="tag/famiglia.html">famiglia</a> <a class="tag" href="tag/campi-salentina.html">Campi Salentina</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Lettera" data-tag="Campi Salentina; Mostra - Maccagnani 1964">
+        <a href="opere/C004.html"><img src="asset/miniature/C004-1.jpg" alt="Lettera ricevuta Spizzico 1964" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C004.html">Spizzico 1964</a></h3>
+          <div class="categoria">Scritti › Lettera · ricevuta</div>
+          <div><a class="tag" href="tag/campi-salentina.html">Campi Salentina</a> <a class="tag" href="tag/mostra-maccagnani-1964.html">Mostra - Maccagnani 1964</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Diario" data-tag="autobiografia">
+        <a href="opere/C005.html"><img src="asset/miniature/C005-1.jpg" alt="Pagina di diario, 1 gennaio 1988" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C005.html">1 gennaio 1988</a></h3>
+          <div class="categoria">Scritti › Diario</div>
+          <div><a class="tag" href="tag/autobiografia.html">autobiografia</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Saggistica" data-tag="autobiografia; Svezia">
+        <a href="opere/C006.html"><img src="asset/miniature/C006-1.jpg" alt="Sono sempre stata fiera…" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C006.html">“Sono sempre stata fiera…”</a></h3>
+          <div class="categoria">Scritti › Saggistica · 2 fogli</div>
+          <div><a class="tag" href="tag/autobiografia.html">autobiografia</a> <a class="tag" href="tag/svezia.html">Svezia</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Ritaglio stampa" data-tag="">
+        <a href="opere/C007.html"><img src="asset/miniature/C007-1.jpg" alt="Quaderni Salentini 1989" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C007.html">Quaderni Salentini 1989</a></h3>
+          <div class="categoria">Media e memorie › Ritaglio stampa</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Saggistica" data-tag="Primavera del Salento">
+        <a href="opere/C008.html"><img src="asset/miniature/C008-1.jpg" alt="Flora primaverile" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C008.html">Flora primaverile</a></h3>
+          <div class="categoria">Scritti › Saggistica</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Saggistica" data-tag="Primavera del Salento">
+        <a href="opere/C009.html"><img src="asset/miniature/C009-1.jpg" alt="Prefazione (bozza)" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C009.html">Prefazione (bozza)</a></h3>
+          <div class="categoria">Scritti › Saggistica · 6 fogli</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="Primavera del Salento; Pianta - Anemone Coronaria">
+        <a href="opere/C010.html"><img src="asset/miniature/C010-1.jpg" alt="Anemoli - bozza di stampa Italiano Svedese" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C010.html">Anemoli - bozza di stampa Italiano Svedese</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-anemone-coronaria.html">Pianta - Anemone Coronaria</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Appunti" data-tag="">
+        <a href="opere/C011.html"><img src="asset/miniature/C011-1.jpg" alt="Nomi dialettali" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C011.html">Nomi dialettali delle piante del Salento</a></h3>
+          <div class="categoria">Scritti › Appunti</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Appunti" data-tag="">
+        <a href="opere/C012.html"><img src="asset/miniature/C012-1.jpg" alt="Da disegnare" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C012.html">Nomi scientifici e ubicazioni della flora “Da disegnare”</a></h3>
+          <div class="categoria">Scritti › Appunti · 2 fogli</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Campi Salentina">
+        <a href="opere/C013.html"><img src="asset/miniature/C013-1.jpg" alt="Tetti con neve" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C013.html">Tetti con neve</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · olio</div>
+          <div><a class="tag" href="tag/campi-salentina.html">Campi Salentina</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Lecce">
+        <a href="opere/C014.html"><img src="asset/miniature/C014-1.jpg" alt="Vicolo di Lecce" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C014.html">Vicolo di Lecce</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · olio</div>
+          <div><a class="tag" href="tag/lecce.html">Lecce</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Campi Salentina">
+        <a href="opere/C016.html"><img src="asset/miniature/C016-1.jpg" alt="Terrazzo" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C016.html">Terrazzo</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · acquerello</div>
+          <div><a class="tag" href="tag/campi-salentina.html">Campi Salentina</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Disegno" data-tag="autoritratto">
+        <a href="opere/C017.html"><img src="asset/miniature/C017-1.jpg" alt="Autoritratto ’57" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C017.html">Autoritratto ’57</a></h3>
+          <div class="categoria">Opere d'arte › Disegno · matita</div>
+          <div><a class="tag" href="tag/autoritratto.html">autoritratto</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Altre tecniche" data-tag="">
+        <a href="opere/C018.html"><img src="asset/miniature/C018-1.jpg" alt="Children playing" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C018.html">Children playing</a></h3>
+          <div class="categoria">Opere d'arte › Altre tecniche · tecnica mista</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Altre tecniche" data-tag="Svezia">
+        <a href="opere/C019.html"><img src="asset/miniature/C019-1.jpg" alt="Julmeditation" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C019.html">Julmeditation</a></h3>
+          <div class="categoria">Opere d'arte › Altre tecniche · tecnica mista</div>
+          <div><a class="tag" href="tag/svezia.html">Svezia</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario raccolto" data-tag="Campi Salentina; Pianta - Reseda">
+        <a href="opere/C020.html"><img src="asset/miniature/C020-1.jpg" alt="Campione di Reseda" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C020.html">Reseda</a></h3>
+          <div class="categoria">Botanica › Erbario raccolto</div>
+          <div><a class="tag" href="tag/campi-salentina.html">Campi Salentina</a> <a class="tag" href="tag/pianta-reseda.html">Pianta - Reseda</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario raccolto" data-tag="Campi Salentina">
+        <a href="opere/C021.html"><img src="asset/miniature/C021-1.jpg" alt="Campione di Malva" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C021.html">Malva</a></h3>
+          <div class="categoria">Botanica › Erbario raccolto</div>
+          <div><a class="tag" href="tag/campi-salentina.html">Campi Salentina</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento">
+        <a href="opere/C022.html"><img src="asset/miniature/C022-1.jpg" alt="Campione di Orchis romana" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C022.html">Orchis romana</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento">
+        <a href="opere/C023.html"><img src="asset/miniature/C023-1.jpg" alt="Disegno botanico" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C023.html">Disegno botanico di fiori selvatici</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Tavola botanica" data-tag="">
+        <a href="opere/C024.html"><img src="asset/miniature/C024-1.jpg" alt="Mappa della flora del Salento" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C024.html">Mappa della flora del Salento</a></h3>
+          <div class="categoria">Botanica › Tavola botanica · 6 fogli</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Fotografia" data-tag="famiglia; Svezia">
+        <a href="opere/C025.html"><img src="asset/miniature/C025-1.jpg" alt="Matrimonio 1955" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C025.html">Matrimonio 1955</a></h3>
+          <div class="categoria">Media e memorie › Fotografia · 2 fogli</div>
+          <div><a class="tag" href="tag/famiglia.html">famiglia</a> <a class="tag" href="tag/svezia.html">Svezia</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Fotografia" data-tag="Mostra - Harvard 1993">
+        <a href="opere/C026.html"><img src="asset/miniature/C026-1.jpg" alt="Harvard 1993" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C026.html">Harvard 1993</a></h3>
+          <div class="categoria">Media e memorie › Fotografia</div>
+          <div><a class="tag" href="tag/mostra-harvard-1993.html">Mostra - Harvard 1993</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Ritaglio stampa" data-tag="Mostra - Maccagnani 1964">
+        <a href="opere/C027.html"><img src="asset/miniature/C027-1.jpg" alt="Ritagli di stampa - Lecce, 1964" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C027.html">1964</a></h3>
+          <div class="categoria">Media e memorie › Ritaglio stampa</div>
+          <div><a class="tag" href="tag/mostra-maccagnani-1964.html">Mostra - Maccagnani 1964</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Ritaglio stampa" data-tag="Lecce; Mostra - Elicona 1971">
+        <a href="opere/C028.html"><img src="asset/miniature/C028-1.jpg" alt="Ritaglio stampa da La Gazzetta del Mezzogiorno" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C028.html">1971</a></h3>
+          <div class="categoria">Media e memorie › Ritaglio stampa</div>
+          <div><a class="tag" href="tag/lecce.html">Lecce</a> <a class="tag" href="tag/mostra-elicona-1971.html">Mostra - Elicona 1971</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Mostre e registro delle opere" data-tag="Mostra - Harvard 1993">
+        <a href="opere/C029.html"><img src="asset/miniature/C029-1.jpg" alt="Locandina della mostra personale al Ticknor - Harvard 1993" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C029.html">1993</a></h3>
+          <div class="categoria">Media e memorie › Mostre e registro delle opere · 2 fogli</div>
+          <div><a class="tag" href="tag/mostra-harvard-1993.html">Mostra - Harvard 1993</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Mostre e registro delle opere" data-tag="">
+        <a href="opere/C030.html"><img src="asset/miniature/C030-1.jpg" alt="Pagina registro opere" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C030.html">Pagina registro opere</a></h3>
+          <div class="categoria">Media e memorie › Mostre e registro delle opere</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Media e memorie" data-categoria="Evento" data-tag="">
+        <a href="opere/C031.html"><img src="asset/miniature/C031-1.jpg" alt="Mostra delle opere di Dagmar Davidson - Rauccio, 2022" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C031.html">Rauccio 2022</a></h3>
+          <div class="categoria">Media e memorie › Evento</div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="Primavera del Salento; Pianta - Bellis Perennis">
+        <a href="opere/C032.html"><img src="asset/miniature/C032-1.jpg" alt="Poesia Bellis" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C032.html">Bellis</a></h3>
+          <div class="categoria">Scritti › Poesia · 3 fogli</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-bellis-perennis.html">Pianta - Bellis Perennis</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Primavera del Salento; Pianta - Bellis Perennis">
+        <a href="opere/C035.html"><img src="asset/miniature/C035-1.jpg" alt="Paesaggio con Margheritine" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C035.html">Paesaggio con Margheritine</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · acquerello</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-bellis-perennis.html">Pianta - Bellis Perennis</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento; Pianta - Bellis Perennis">
+        <a href="opere/C036.html"><img src="asset/miniature/C036-1.jpg" alt="Disegno di Bellis Perennis" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C036.html">Margheritine</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-bellis-perennis.html">Pianta - Bellis Perennis</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="Primavera del Salento; Pianta - Anemone Coronaria">
+        <a href="opere/C037.html"><img src="asset/miniature/C037-1.jpg" alt="Poesia Anemoli" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C037.html">Anemoli</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-anemone-coronaria.html">Pianta - Anemone Coronaria</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Primavera del Salento; Pianta - Anemone Coronaria">
+        <a href="opere/C038.html"><img src="asset/miniature/C038-1.jpg" alt="Paesaggio con Anemone Coronaria" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C038.html">Anemone Coronaria</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · acquerello</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-anemone-coronaria.html">Pianta - Anemone Coronaria</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento; Pianta - Anemone Coronaria">
+        <a href="opere/C039.html"><img src="asset/miniature/C039-1.jpg" alt="Disegno botanico di Anemone Coronaria" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C039.html">Disegno botanico di Anemone Coronaria</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-anemone-coronaria.html">Pianta - Anemone Coronaria</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="Primavera del Salento; Pianta - Silene Conica">
+        <a href="opere/C040.html"><img src="asset/miniature/C040-1.jpg" alt="Poesia Silene conica" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C040.html">Silene conica</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-silene-conica.html">Pianta - Silene Conica</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Opere d&#x27;arte" data-categoria="Pittura" data-tag="Primavera del Salento; Pianta - Silene Conica">
+        <a href="opere/C041.html"><img src="asset/miniature/C041-1.jpg" alt="Paesaggio con Silene Conica" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C041.html">Paesaggio con Silene Conica</a></h3>
+          <div class="categoria">Opere d'arte › Pittura · acquerello</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-silene-conica.html">Pianta - Silene Conica</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento; Pianta - Silene Conica">
+        <a href="opere/C042.html"><img src="asset/miniature/C042-1.jpg" alt="Disegno di Silene Conica" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C042.html">Disegno botanico di Silene Conica</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-silene-conica.html">Pianta - Silene Conica</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Scritti" data-categoria="Poesia" data-tag="Primavera del Salento; Pianta - Reseda">
+        <a href="opere/C043.html"><img src="asset/miniature/C043-1.jpg" alt="Il prato della Primavera" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C043.html">Il prato della Primavera</a></h3>
+          <div class="categoria">Scritti › Poesia</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-reseda.html">Pianta - Reseda</a></div>
+        </div>
+      </div>
+
+      <div class="risultato" data-sezione="Botanica" data-categoria="Erbario disegnato" data-tag="Primavera del Salento; Pianta - Reseda">
+        <a href="opere/C044.html"><img src="asset/miniature/C044-1.jpg" alt="Disegno di Reseda" loading="lazy"></a>
+        <div>
+          <h3><a href="opere/C044.html">Disegno botanico di Reseda</a></h3>
+          <div class="categoria">Botanica › Erbario disegnato</div>
+          <div><a class="tag" href="tag/primavera-del-salento.html">Primavera del Salento</a> <a class="tag" href="tag/pianta-reseda.html">Pianta - Reseda</a></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <script src="js/filtri.js"></script>
+</main>
+
+<!-- ===== PIÈ DI PAGINA (uguale in tutte le pagine) ===== -->
+<footer class="pie">
+  <div class="contenitore">
+    Archivio Dagmar Davidson · prima prova di consegna, ottobre 2026
+  </div>
+</footer>
+</body>
+</html>

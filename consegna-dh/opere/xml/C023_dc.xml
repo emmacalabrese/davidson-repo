@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <!-- Metadati Dublin Core del documento C023 -->
+
+    <dc:title>Disegno botanico di fiori selvatici</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Botanica</dc:subject>
+    <dc:subject>Disegno botanico</dc:subject>
+    <dc:subject>Fiori selvatici</dc:subject>
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:description>
+        Documento botanico di Dagmar Davidson.
+        Il foglio presenta un disegno di fiori selvatici.
+        Non sono presenti iscrizioni descrittive.
+        È visibile la filigrana della carta:
+        «C.M. FABRIANO».
+
+        Il documento digitale è costituito dalla
+        riproduzione fotografica di un foglio
+        conservato nella collezione privata
+        Dagmar Davidson.
+    </dc:description>
+
+    <dc:type>StillImage</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:identifier>C023</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>zxx</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C023.html</dc:relation>
+    
+</dc:dc>

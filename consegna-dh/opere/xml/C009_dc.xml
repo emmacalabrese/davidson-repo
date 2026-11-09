@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<!-- Metadati Dublin Core del documento C009 -->
+
+    <dc:title>Prefazione (bozza)</dc:title>
+
+    <dc:creator>Dagmar Davidson</dc:creator>
+
+    <dc:subject>Saggistica</dc:subject>
+
+    <dc:subject>Flora salentina</dc:subject>
+
+    <dc:subject>Paesaggio salentino</dc:subject>
+
+    <dc:subject>Botanica</dc:subject>
+
+    <dc:subject>Storia del Salento</dc:subject>
+
+    <dc:subject>Memoria e paesaggio</dc:subject>
+
+    <dc:subject>Protezione della natura</dc:subject>
+
+    <dc:subject>Degrado ambientale</dc:subject>
+
+    <dc:subject>Tradizioni contadine</dc:subject>
+
+    <dc:subject>Primavera del Salento</dc:subject>
+
+    <dc:description>
+        Bozza di prefazione di Dagmar Davidson dedicata al
+        paesaggio, alla flora e alle trasformazioni ambientali
+        del Salento. L'autrice rievoca il proprio arrivo nel
+        Salento nel 1955 e descrive il paesaggio rurale e
+        costiero, le dune, la vegetazione spontanea, le
+        tradizioni contadine e la progressiva trasformazione
+        del territorio nel corso del Novecento. Il testo
+        affronta inoltre la perdita delle conoscenze botaniche
+        tradizionali, l'uso di sostanze chimiche in agricoltura,
+        il degrado ambientale e la necessità di recuperare
+        un rapporto consapevole con la natura. Il documento
+        conservato nell'archivio è composto da sei fogli,
+        comprendenti parti dattiloscritte, correzioni,
+        cancellature, aggiunte e annotazioni manoscritte.
+        Gli ultimi due fogli presentano una trascrizione
+        parziale e incerta.
+    </dc:description>
+
+    <dc:type>Text</dc:type>
+
+    <dc:format>image/jpeg</dc:format>
+
+    <dc:format>text/html</dc:format>
+
+    <dc:identifier>C009</dc:identifier>
+
+    <dc:source>Collezione privata Dagmar Davidson</dc:source>
+
+    <dc:language>it</dc:language>
+
+    <dc:rights>
+        Condizioni di accesso e riutilizzo da verificare
+    </dc:rights>
+
+    <dc:relation>../C009.html</dc:relation>
+
+    <dc:relation>C009_tei.xml</dc:relation>
+
+</dc:dc>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Silene conica</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Poesia dedicata alla Silene conica, chiamata
+    nel dialetto salentino campaneddhgi rossi,
+    e alla sua breve fioritura primaverile
+    nel paesaggio del Salento.
+  </dc:description>
+
+  <dc:subject>Poesia</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+  <dc:subject>Silene conica</dc:subject>
+  <dc:subject>Campaneddhgi</dc:subject>
+  <dc:subject>Dialetto salentino</dc:subject>
+
+  <dc:type>Text</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:format>text/html</dc:format>
+
+  <dc:identifier>C040</dc:identifier>
+
+  <dc:language>it</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C040.html
+  </dc:relation>
+
+  <dc:relation>
+    C040_tei.xml
+  </dc:relation>
+
+</dc:dc>

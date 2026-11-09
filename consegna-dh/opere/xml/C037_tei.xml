@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C037">
+
+  <teiHeader>
+    <fileDesc>
+
+      <titleStmt>
+        <title>Anemoli</title>
+        <author>Dagmar Davidson</author>
+      </titleStmt>
+
+      <publicationStmt>
+          <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+          <date>2026</date>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>
+          Poesia manoscritta intitolata Anemoli,
+          identificata con il codice C037.
+          Documento composto da un foglio,
+          conservato nella collezione privata
+          Dagmar Davidson.
+          Il testo è datato 28 febbraio e reca
+          la firma Dagmar Davidson Calabrese
+          e la sigla DC.
+        </p>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="it">Italiano</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+
+  <text xml:lang="it">
+    <body>
+
+      <div type="poem">
+
+        <head>Anemoli</head>
+
+          <!-- FOGLIO 1 -->
+
+                <div type="page" n="1">
+
+                    <head>Foglio 1 di 1</head>
+
+                    <dateline>
+                        28 Febbraio
+                        <note type="margin">
+                            A margine: 3
+                        </note>
+                    </dateline>
+
+                    <lg type="stanza">
+
+                        <l>Anemoli,</l>
+                        <l>i principali siete,</l>
+                        <l>dei fiori della primavera.</l>
+                        <l>Come astri viola</l>
+                        <l>luccicati</l>
+                        <l>tra scuri pezzi di terra</l>
+                        <l>sotto un tepido sole</l>
+                        <l>di febbraio,</l>
+                        <l>mentre le viti dei campi,</l>
+                        <l>nude e nodose,</l>
+                        <l>si contorcano,</l>
+                        <l>quasi portasssero</l>
+                        <l>sulle loro spalle</l>
+                        <l>tutte le fatiche</l>
+                        <l>di questo mondo.</l>
+
+                    </lg>
+
+                    <closer>
+                        <signed>Dagmar Davidson Calabrese</signed>
+                        <note type="signature">Sigla: DC</note>
+                    </closer>
+
+                </div>
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>

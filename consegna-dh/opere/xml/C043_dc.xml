@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:dc
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:title>Il prato della Primavera</dc:title>
+
+  <dc:creator>Dagmar Davidson</dc:creator>
+
+  <dc:description>
+    Poesia manoscritta datata 21 aprile, intitolata
+    Il prato della Primavera.
+    Il testo descrive un campicello incolto del Salento
+    e la fioritura primaverile di diverse specie vegetali,
+    tra cui borragine, aglio, ambasciulli, reseda
+    e anagallide.
+    Il foglio presenta correzioni, aggiunte
+    e annotazioni marginali.
+  </dc:description>
+
+  <dc:subject>Poesia</dc:subject>
+  <dc:subject>Primavera del Salento</dc:subject>
+  <dc:subject>Botanica</dc:subject>
+  <dc:subject>Reseda</dc:subject>
+  <dc:subject>Borragine</dc:subject>
+  <dc:subject>Anagallide</dc:subject>
+
+  <dc:type>Text</dc:type>
+
+  <dc:format>image/jpeg</dc:format>
+
+  <dc:identifier>C043</dc:identifier>
+
+  <dc:language>it</dc:language>
+
+  <dc:source>
+    Collezione privata Dagmar Davidson
+  </dc:source>
+
+  <dc:rights>
+    Condizioni di accesso e riutilizzo da verificare
+  </dc:rights>
+
+  <dc:relation>
+    ../C043.html
+  </dc:relation>
+
+  <dc:relation>
+    C043_tei.xml
+  </dc:relation>
+
+</dc:dc>

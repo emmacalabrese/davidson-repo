@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="C009">
+
+    <!-- Codifica XML/TEI del testo C009 -->
+
+    <teiHeader>
+
+        <fileDesc>
+
+            <titleStmt>
+                <title>Prefazione (bozza)</title>
+                <author>Dagmar Davidson</author>
+            </titleStmt>
+
+            <publicationStmt>
+                <p>Edizione digitale dell'Archivio Dagmar Davidson.</p>
+                <date>2026</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p> Documento dattiloscritto con correzioni e
+                    annotazioni manoscritte, identificato con
+                    il codice C009, composto da sei fogli.
+                    Conservato nella collezione privata
+                    Dagmar Davidson.
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <profileDesc>
+
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+
+        </profileDesc>
+
+    </teiHeader>
+
+    <text xml:lang="it">
+
+        <body>
+
+            <div type="prose">
+
+                <head>Prefazione (bozza)</head>
+                <pb n="1"/>
+                    <p>
+                        <note type="physical">
+                            Dattiloscritto con correzioni; in alto:
+                            1; titolo "Prefazione" cancellato e
+                            sostituito a mano con "Introduzione".
+                        </note>
+                    </p>
+
+                    <p>
+                        Aprodo nel lontano 1955 qui nel Salento,
+                        dal estremo Nordeuropa al estremo Sud.
+                        Tutto era nuovo, il modo di vivere, la
+                        lingua, il clima e il paesaggio (che nei
+                        paesi nordici era candidamente bianco
+                        per 4-5 mesi all'anno e nell'estate
+                        molto verde).
+                    </p>
+
+                    <p>
+                        Qui invece trovai un inverno sempre verde
+                        e vaste distese gialle di erba secca per
+                        tutto il periodo estivo. La differenza
+                        più grande è forse il sole, che al nord
+                        spesso si vede come una palla giallo
+                        pallido, che si può guardare ma senza
+                        avvertire calore, qui invece almeno nel
+                        estate è un cerchio di fuoco nel zenit,
+                        che in pochi minuti ti fa sentire
+                        bruciare […] con un fogliame di verde
+                        smorzato che sotto il vento acquista un
+                        tocco d'argento […] vaste distese di
+                        vigneto che durante l'estate hanno un
+                        verde intensissimo.
+                    </p>
+
+                    <p>
+                        Le coste Salentine erano più o meno
+                        rimaste intatti sino alla metà di
+                        questo secolo, dune altissimi, spesso
+                        con dietrodune paludose con grossi
+                        canneti, lì e là dei sorgenti con
+                        l'acqua giacciata. Sulla soglia di 2000
+                        della bellezza costiera è rimasto
+                        poco o nulla.
+                    </p>
+
+                    <p>
+                        Ho molti ricordi deliziosi del mio
+                        primo tempo nel Salento. Il mio primo
+                        giro in bicicletta era da Campi
+                        Salentina sino S. Maria di Cerrate
+                        su una strada bianca, che girava tra
+                        ulivi centinari e assai contorti,
+                        sostenuti dai soliti muretti di pietre
+                        (come se non fossero in grado di
+                        reggersi da soli).
+                    </p>
+
+                    <p>
+                        La chiesa di S. Maria in quel periodo
+                        era in assoluto abbandono e fu usata
+                        per seccare tabacco e sulla scala
+                        d'uscita lottavano un bel mucchio
+                        di galline per il suo posto al sole.
+                    </p>
+
+                    <p>
+                        Indimenticabile è anche il mio primo
+                        bagno alle Dune. Si arrivava da Porto
+                        Cesario seguendo una stradina bianca
+                        lungo il mare, passando un rudimentale
+                        ponte sopra il canale del Ente riforma
+                        per poi arrampicarsi in alto su un
+                        cumulo di emense dune e dietrodune
+                        che si estendevano lungo la riva a
+                        quanto poteva vedere l'occhio.
+                    </p>
+
+                    <p>
+                        Dalla cima della duna si vedeva un
+                        mare incredibile raccolto dalla vasta
+                        baia, con un acqua cristallina, che
+                        oscillava dal color acquamarino al
+                        blunotte. A destra spuntava l'antica
+                        torre Chianca e in fondo a sinistra
+                        Porto Cesario con le sue isole.
+                    </p>
+
+                    <p>
+                        Nel principio degli anni sessanta
+                        non ce n'erano ancora costruzioni
+                        fuori il paese e Porto Cesario era
+                        davvero una 'perla del Salento'
+                    </p>
+
+                    <p>
+                        A Casa L'Abate ebbe le mie prime
+                        conoscenze con le…
+                    </p>
+
+                    <note place="margin" hand="unknown">
+                        Durante l'autunno… mentre / penisola…
+                        è l'ulivo / Della [l'albero più]
+                        coltivato per la produzione di olio
+                        d'oliva e per il legno pregiato /
+                        i vigneti Salentini hanno un alto
+                        [percentuale] di glucosio e una ricca
+                        produzione di ottimi vini /
+                        Ricordi anni -50 / di allora.
+                    </note>
+
+                    <note type="editorial">
+                        […] = punti non letti con sicurezza
+                        nella scansione.
+                    </note>
+
+                <!-- Foglio 2: prosecuzione del testo -->
+                <pb n="2"/>
+                    <!-- Trascrizione da completare -->
+
+                <pb n="3"/>
+                    <!-- Trascrizione da completare -->
+
+                <pb n="4"/>
+                    <!-- Trascrizione da completare -->
+
+                <pb n="5"/>
+                    <!-- Trascrizione da completare -->
+
+                <pb n="6"/>
+                    <!-- Trascrizione da completare -->
+
+            </div>
+
+        </body>
+
+    </text>
+
+</TEI>
+
